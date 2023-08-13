@@ -1,3 +1,7 @@
+# Welcome
+
+## Use standard ANSI SQL and a broad range of reporting functions.
+
 Anyone on your account with permission to view reports can write queries. To execute your query and see the results, click Run. More complex queries might take a few moments longer to complete and display results. Attempting to run an invalid query generates an error message that contains the line number and position of the error.
 
 The following query uses the balance_transactions table to get information about the five most recent balance transactions related to refunds.
