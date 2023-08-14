@@ -1,5 +1,6 @@
 ---
-description: Understanding AI-generated answers
+title: Understanding AI-generated answers
+description: Corpus delivers AI answers on the public and private sources you trained it on.
 ---
 
 # 🎯 Answer accuracy
