@@ -3,7 +3,9 @@ title: Understanding AI-generated answers
 description: Corpus delivers AI answers on the public and private sources you trained it on.
 ---
 
-# 🎯 Answer accuracy
+# Understanding AI-generated answers
+
+## Corpus delivers AI answers on the public and private sources you trained it on.
 
 Corpus utilizes OpenAI’s ChatGPT to comprehend customer inquiries, identify pertinent solutions in the Help Center, and deliver precise answers to customers based on those articles.
 
