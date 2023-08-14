@@ -87,14 +87,14 @@ This endpoint requires authenticate via `TGX-API-KEY` and `TGX-API-SECRET` heade
 
 :::: cards
 
-[card is this the title]
+[[card this the title]]
 This is the content
-[/card]
+[[/card]]
 
-[card is this the title]
+[[card another title]]
 #### test
 This is the content
-[/card]
+[[/card]]
 
 ::::
 
