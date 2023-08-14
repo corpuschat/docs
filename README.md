@@ -85,6 +85,19 @@ This endpoint requires authenticate via `TGX-API-KEY` and `TGX-API-SECRET` heade
 [[/danger]]
 
 
+::: cards
+[card is this the title]
+This is the content
+[/card]
+
+[card is this the title]
+#### test
+This is the content
+[/card]
+
+:::
+
+
 
 [[toggle several words that toggle]]
 ⚠️ This endpoint requires authenticate via `TGX-API-KEY` and `TGX-API-SECRET` headers. You can find your API credentials under account dashboard.
