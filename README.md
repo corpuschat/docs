@@ -85,7 +85,7 @@ This endpoint requires authenticate via `TGX-API-KEY` and `TGX-API-SECRET` heade
 [[/danger]]
 
 
-::: cards
+:::: cards
 
 [card is this the title]
 This is the content
@@ -96,7 +96,7 @@ This is the content
 This is the content
 [/card]
 
-:::
+::::
 
 
 
