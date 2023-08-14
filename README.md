@@ -1,6 +1,26 @@
 # Welcome
 
-## Use standard ANSI SQL and a broad range of reporting functions.
+## Welcome to the home of your new documentation
+
+![](https://mintlify.s3-us-west-1.amazonaws.com/automaze/images/hero-light.svg)
+
+### Setting up
+
+The first step to world-class documentation is setting up your editing environnments.
+
+:::: cols=2
+
+[[card this the title]]
+This is the content
+[[/card]]
+
+[[card another title]]
+#### test
+This is the content
+[[/card]]
+
+::::
+
 
 Anyone on your account with permission to view reports can write queries. To execute your query and see the results, click Run. More complex queries might take a few moments longer to complete and display results. Attempting to run an invalid query generates an error message that contains the line number and position of the error.
 
@@ -85,18 +105,6 @@ This endpoint requires authenticate via `TGX-API-KEY` and `TGX-API-SECRET` heade
 [[/danger]]
 
 
-:::: cols=2
-
-[[card this the title]]
-This is the content
-[[/card]]
-
-[[card another title]]
-#### test
-This is the content
-[[/card]]
-
-::::
 
 
 
