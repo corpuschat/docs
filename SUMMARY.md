@@ -2,8 +2,6 @@
 
 * [Welcome](README.md)
 
----
-
 ## Overview
 
 * [Quick start](overview/quick-start.md)
@@ -12,15 +10,11 @@
 * [Answer accuracy](overview/answer-accuracy.md)
 * [FAQ](overview/faq.md)
 
----
-
 ## Chat Widget
 
 * [Home screen](widget/home-screen.md)
 * [AI Chatbot](widget/ai-chatbot.md)
 * [Contact form](widget/contact-form.md)
-
----
 
 ## Data sources
 
@@ -45,9 +39,7 @@
   * [Database](sources/other/database.md)
   * [Plain text](sources/other/plain-text.md)
 
----
-
-## Use Cases
+## Guides
 
 * [For sales / pre-sales](usecases/for-sales-pre-sales.md)
 * [For customer support](usecases/for-customer-support.md)
