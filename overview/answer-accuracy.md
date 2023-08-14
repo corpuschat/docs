@@ -10,9 +10,11 @@ youtube-video: SkGmyhrA0q4
 
 Corpus utilizes OpenAI’s ChatGPT to comprehend customer inquiries, identify pertinent solutions in the Help Center, and deliver precise answers to customers based on those articles.
 
-{% hint style="info" %}
+[[info]]
+
 While we aim to offer precise and useful information in response to your questions, it is important to remember that Corpus is driven by machine learning models, which are not infallible. These models rely on statistical patterns, which means that they might occasionally produce an incorrect answer.
-{% endhint %}
+
+[[/info]]
 
 #### How can I have confidence in the accuracy of Corpus?
 
