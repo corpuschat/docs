@@ -22,6 +22,10 @@ This is the content
 [[card this the title](/link/to)]
 This is the content
 [[/card]]
+
+(/link/to)[[card this the title]]
+This is the content
+[[/card]]
 ::::
 
 
