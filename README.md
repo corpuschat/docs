@@ -4,7 +4,7 @@
 
 ![](https://mintlify.s3-us-west-1.amazonaws.com/automaze/images/hero-light.svg)
 
-### Setting up
+## Setting up
 
 The first step to world-class documentation is setting up your editing environnments.
 
