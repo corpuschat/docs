@@ -2,7 +2,7 @@
 
 ## Welcome to the home of your new documentation
 
-![](https://mintlify.s3-us-west-1.amazonaws.com/automaze/images/hero-light.svg)
+![](./media/docs-hero.png)
 
 ## Setting up
 
