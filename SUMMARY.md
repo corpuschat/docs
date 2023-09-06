@@ -16,7 +16,7 @@
 * [AI Chatbot](widget/ai-chatbot.md)
 * [Contact form](widget/contact-form.md)
 
-## Data sources
+## [Data sources](sources/README.md)
 
 * [Knowledge bases](sources/knowledge-bases/README.md)
   * [Intercom](sources/knowledge-bases/intercom.md)
