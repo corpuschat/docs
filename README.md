@@ -39,28 +39,65 @@ This is the content
 
 :::: cols=3
 
-Notion
+(sources/knowledge-bases/notion.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-notion.svg" class="dark-invert" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Notion</h4>
+[[/card]]
 
-Github
+(sources/github/README.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-github.svg" class="dark-invert" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Github</h4>
+[[/card]]
 
-Hubspot
+(sources/google/README.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-google-drive.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Google</h4>
+[[/card]]
 
-Intercom
+(sources/knowledge-bases/hubspot.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-hubspot.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Google</h4>
+[[/card]]
 
-Zendesk
+(sources/knowledge-bases/intercom.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-intercom.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">intercom</h4>
+[[/card]]
 
-Google Drive
+(sources/knowledge-bases/zendesk.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-zendesk.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">zendesk</h4>
+[[/card]]
 
-Google Sheets
+(sources/web/sitemap.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-sitemap.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">sitemap</h4>
+[[/card]]
 
-Google Docs
+(sources/web/website.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-website.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">website</h4>
+[[/card]]
 
-Sitemap
+(sources/web/wordpress.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-wordpress.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">wordpress</h4>
+[[/card]]
 
-Website
+(sources/web/feed.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-feed.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">feed</h4>
+[[/card]]
 
-Files
+(sources/knowledge-bases/google.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-google.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Google</h4>
+[[/card]]
 
-Database
+(sources/other/uploaded-files.md)[[card]]
+<img src="https://app.corpus.chat/static/img/source-files.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">files</h4>
+[[/card]]
+
 
 ::::
