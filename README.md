@@ -39,62 +39,62 @@ This is the content
 
 :::: cols=3
 
-(sources/knowledge-bases/notion.md)[[card]]
+(/sources/knowledge-bases/notion.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-notion.svg" class="dark-invert" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Notion</h4>
 [[/card]]
 
-(sources/github/README.md)[[card]]
+(/sources/github)[[card]]
 <img src="https://app.corpus.chat/static/img/source-github.svg" class="dark-invert" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Github</h4>
 [[/card]]
 
-(sources/google/README.md)[[card]]
+(/sources/google)[[card]]
 <img src="https://app.corpus.chat/static/img/source-google-drive.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Google</h4>
 [[/card]]
 
-(sources/knowledge-bases/hubspot.md)[[card]]
+(/sources/knowledge-bases/hubspot.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-hubspot.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Google</h4>
 [[/card]]
 
-(sources/knowledge-bases/intercom.md)[[card]]
+(/sources/knowledge-bases/intercom.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-intercom.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">intercom</h4>
 [[/card]]
 
-(sources/knowledge-bases/zendesk.md)[[card]]
+(/sources/knowledge-bases/zendesk.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-zendesk.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">zendesk</h4>
 [[/card]]
 
-(sources/web/sitemap.md)[[card]]
+(/sources/web/sitemap.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-sitemap.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">sitemap</h4>
 [[/card]]
 
-(sources/web/website.md)[[card]]
+(/sources/web/website.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-website.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">website</h4>
 [[/card]]
 
-(sources/web/wordpress.md)[[card]]
+(/sources/web/wordpress.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-wordpress.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">wordpress</h4>
 [[/card]]
 
-(sources/web/feed.md)[[card]]
+(/sources/web/feed.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-feed.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">feed</h4>
 [[/card]]
 
-(sources/knowledge-bases/google.md)[[card]]
+(/sources/knowledge-bases/google.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-google.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Google</h4>
 [[/card]]
 
-(sources/other/uploaded-files.md)[[card]]
+(/sources/other/uploaded-files.md)[[card]]
 <img src="https://app.corpus.chat/static/img/source-files.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">files</h4>
 [[/card]]
