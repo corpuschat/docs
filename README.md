@@ -1,5 +1,6 @@
 ---
 hide-toc: true
+hide-nav: true
 ---
 
 # Documentation
