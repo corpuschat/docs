@@ -1,3 +1,7 @@
+---
+hide-toc: true
+---
+
 # Documentation
 
 ## Explore our guides and examples to integrate Corpus’ Al-powered customer support chatbot for your website.
