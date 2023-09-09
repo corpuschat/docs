@@ -5,20 +5,23 @@
 ## Overview
 
 * [Quick start](overview/quick-start.md)
-* [Feature list](overview/feature-list.md)
+* [Chatbot personality](overview/chatbot-personality.md)
 * [Understanding Tokens](overview/understanding-tokens.md)
-* [Ensuring answer accuracy](overview/answer-accuracy.md)
+* [Ensuring accuracy](overview/answer-accuracy.md)
 
-## Sharing
+## [Training on data](training-your-chatbot.md)
 
-* [Public URL](sharing/public-url.md)
-* [Custom domain](sharing/custom-domain.md)
-* [Chat widget](sharing/widget.md)
+* [Uploading Files](sources/upload-files.md)
+* [Text / Markdown](sources/plain-text.md)
+* [URLs / Sitemaps](sources/websites.md)
+* [RSS Feeds](sources/websites.md)
 
-## Chat Widget
 
+## [Chat Widget](widget/README.md)
+
+* [Appearance](widget/appearance.md)
 * [Home screen](widget/home-screen.md)
-* [AI Chatbot](widget/ai-chatbot.md)
+* [Chat window](widget/ai-chatbot.md)
   * [Custom prompt](widget/custom-prompt.md)
   * [Generating Leads](widget/lead-generation.md)
   * [Bot peronality](widget/bot-peronality.md)
@@ -26,28 +29,28 @@
 * [Localization](widget/localization.md)
 * [Javascript API](widget/api.md)
 
-## [Data sources](sources/README.md)
+## [Sharing](sharing/README.md)
 
-* [Files](sources/files.md)
-* [Plain text](sources/plain-text.md)
-* [Websites](sources/websites/README.md)
-  * [Web crawler](sources/websites/crawler.md)
-  * [RSS Feed](sources/websites/rss-feed.md)
-  * [Sitemap](sources/websites/sitemap.md)
- 
-## [Integrations](sources/README.md)
+* [Public URL](sharing/public-url.md)
+* [Custom domain](sharing/custom-domain.md)
 
-* [GitHub](sources/github.md)
-* [Google Drive](sources/google.md)
-* [Wordpress](sources/websites/wordpress.md)
-* [Knowledge bases](sources/knowledge-bases.md)
-  * [Intercom](sources/intercom.md)
-  * [ZenDesk](sources/zendesk.md)
-  * [HubSpot](sources/hubspot.md)
-  * [Notion](sources/notion.md)
-* [Database](sources/other/database.md)
+## [Chatbot activity](activity/README.md)
 
-## Guides
+* [Contact list](activity/contacts.md)
+* [Chat history](activity/chat-sessions.md)
 
-* [For sales / pre-sales](usecases/for-sales-pre-sales.md)
-* [For customer support](usecases/for-customer-support.md)
+## [Integrations](integrations/README.md)
+
+* [GitHub](integrations/github.md)
+* [Notion](integrations/notion.md)
+* [Google Drive](integrations/google.md)
+* [Wordpress](integrations/wordpress.md)
+* [Intercom](integrations/intercom.md)
+* [ZenDesk](integrations/zendesk.md)
+* [HubSpot](integrations/hubspot.md)
+* [Database](integrations/database.md)
+
+## Billing
+
+* [Usage Metrics](usecases/for-sales-pre-sales.md)
+* [Subscriptions](usecases/for-customer-support.md)
