@@ -31,16 +31,20 @@
 * [Files](sources/files.md)
 * [Plain text](sources/plain-text.md)
 * [Websites](sources/websites/README.md)
-  * [Wordpress](sources/websites/wordpress.md)
+  * [Web crawler](sources/websites/crawler.md)
   * [RSS Feed](sources/websites/rss-feed.md)
   * [Sitemap](sources/websites/sitemap.md)
+ 
+## [Integrations](sources/README.md)
+
 * [GitHub](sources/github.md)
+* [Google Drive](sources/google.md)
+* [Wordpress](sources/websites/wordpress.md)
 * [Knowledge bases](sources/knowledge-bases.md)
   * [Intercom](sources/intercom.md)
   * [ZenDesk](sources/zendesk.md)
   * [HubSpot](sources/hubspot.md)
   * [Notion](sources/notion.md)
-* [Google Drive](sources/google.md)
 * [Database](sources/other/database.md)
 
 ## Guides
