@@ -15,35 +15,33 @@
 * [Custom domain](sharing/custom-domain.md)
 * [Chat widget](sharing/widget.md)
 
-## Widget Customization
+## Chat Widget
 
 * [Home screen](widget/home-screen.md)
 * [AI Chatbot](widget/ai-chatbot.md)
+  * [Custom prompt](widget/custom-prompt.md)
+  * [Generating Leads](widget/lead-generation.md)
+  * [Bot peronality](widget/bot-peronality.md)
 * [Contact form](widget/contact-form.md)
+* [Localization](widget/localization.md)
 * [Javascript API](widget/api.md)
 
 ## [Data sources](sources/README.md)
 
-* [Knowledge bases](sources/knowledge-bases/README.md)
-  * [Intercom](sources/knowledge-bases/intercom.md)
-  * [ZenDesk](sources/knowledge-bases/zendesk.md)
-  * [HubSpot](sources/knowledge-bases/hubspot.md)
-  * [Notion](sources/knowledge-bases/notion.md)
-* [GitHub](sources/github/README.md)
-  * [Repo](sources/github/repo.md)
-  * [Wiki](sources/github/wiki.md)
-* [Google](sources/google/README.md)
-  * [Drive](sources/google/drive.md)
-  * [Docs](sources/google/docs.md)
-  * [Sheets](sources/google/sheets.md)
+* [Uploaded files](sources/uploaded-files.md)
+* [Plain text](sources/plain-text.md)
 * [Websites](sources/websites/README.md)
   * [Wordpress](sources/websites/wordpress.md)
   * [RSS Feed](sources/websites/rss-feed.md)
   * [Sitemap](sources/websites/sitemap.md)
-* [Other](sources/other/README.md)
-  * [Uploaded files](sources/other/uploaded-files.md)
-  * [Database](sources/other/database.md)
-  * [Plain text](sources/other/plain-text.md)
+* [GitHub](sources/github.md)
+* [Knowledge bases](sources/knowledge-bases.md)
+  * [Intercom](sources/intercom.md)
+  * [ZenDesk](sources/zendesk.md)
+  * [HubSpot](sources/hubspot.md)
+  * [Notion](sources/notion.md)
+* [Google Drive](sources/google.md)
+* [Database](sources/other/database.md)
 
 ## Guides
 
