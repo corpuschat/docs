@@ -7,14 +7,20 @@
 * [Quick start](overview/quick-start.md)
 * [Feature list](overview/feature-list.md)
 * [Understanding Tokens](overview/understanding-tokens.md)
-* [Answer accuracy](overview/answer-accuracy.md)
-* [FAQ](overview/faq.md)
+* [Ensuring answer accuracy](overview/answer-accuracy.md)
 
-## Chat Widget
+## Sharing
+
+* [Public URL](sharing/public-url.md)
+* [Custom domain](sharing/custom-domain.md)
+* [Chat widget](sharing/widget.md)
+
+## Widget Customization
 
 * [Home screen](widget/home-screen.md)
 * [AI Chatbot](widget/ai-chatbot.md)
 * [Contact form](widget/contact-form.md)
+* [Javascript API](widget/api.md)
 
 ## [Data sources](sources/README.md)
 
