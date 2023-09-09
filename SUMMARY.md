@@ -28,7 +28,7 @@
 
 ## [Data sources](sources/README.md)
 
-* [Uploaded files](sources/uploaded-files.md)
+* [Files](sources/files.md)
 * [Plain text](sources/plain-text.md)
 * [Websites](sources/websites/README.md)
   * [Wordpress](sources/websites/wordpress.md)
