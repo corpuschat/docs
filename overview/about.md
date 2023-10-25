@@ -15,7 +15,7 @@ One of the key advantages of Corpus is its ability to provide accurate answers b
 
 Some of the advantages of using Corpus include:
 
-### Customization
+## Customization
 Corpus allows for a personalized chatbot experience with customization options to align the chatbot's personality with the representing brand.
 
 ### Lead Management
