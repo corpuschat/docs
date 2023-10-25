@@ -4,6 +4,7 @@
 
 ## Overview
 
+* [What is Corpus](overview/about.md)
 * [Quick start](overview/quick-start.md)
 * [Chatbot personality](overview/chatbot-personality.md)
 * [Understanding Tokens](overview/understanding-tokens.md)
