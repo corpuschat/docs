@@ -18,7 +18,7 @@ Some of the advantages of using Corpus include:
 ## Customization
 Corpus allows for a personalized chatbot experience with customization options to align the chatbot's personality with the representing brand.
 
-### Lead Management
+## Lead Management
 Corpus is equipped with features for lead generation and management. It provides a platform for not just handling customer inquiries but also capturing and managing leads which is essential for business growth.
 
 ### Setup
