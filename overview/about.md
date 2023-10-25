@@ -1,9 +1,11 @@
 ---
 title: What is Corpus?
-description: Corpus delivers AI answers on the public and private sources you trained it on.
+description: Corpus is a customer support chatbot powered by artificial intelligence (AI), designed to automate and streamline customer service operations.
 ---
 
-Title: What is Corpus? An Introductory Guide
+# What is Corpus? 
+
+## An introductory guide to Corpus and its features
 
 Corpus is a customer support chatbot powered by artificial intelligence (AI), designed to automate and streamline customer service operations. With Corpus, over 50% of customer support requests can be resolved instantly by providing timely responses to customer inquiries around the clock.
 
