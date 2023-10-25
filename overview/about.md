@@ -21,7 +21,7 @@ Corpus allows for a personalized chatbot experience with customization options t
 ## Lead Management
 Corpus is equipped with features for lead generation and management. It provides a platform for not just handling customer inquiries but also capturing and managing leads which is essential for business growth.
 
-## Setup
+## Easy Setup
 In terms of setup, Corpus requires a data source to operate effectively. The initial step involves providing the necessary data or data source from which Corpus will fetch and extract content. Following this, there is a training phase where the chatbot is trained on the provided data to enable it to respond accurately to customer inquiries in a manner akin to a human representative.
 
 ## Continuous Operation
