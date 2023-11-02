@@ -16,6 +16,7 @@
 * [Text / Markdown](sources/plain-text.md)
 * [URLs / Sitemaps](sources/websites.md)
 * [RSS Feeds](sources/websites.md)
+* [Integrations](sources/integrations.md)
 
 
 ## [Chat Widget](widget/README.md)
