@@ -7,7 +7,7 @@
 * [What is Corpus](overview/about.md)
 * [Quick start](overview/quick-start.md)
 * [Understanding Tokens](overview/understanding-tokens.md)
-* [Optimizing Response Accuracy](overview/optimize-response-accuracy.md)
+* [Response Quality](overview/optimize-response-quality.md)
 
 ## [Training on data](training-your-chatbot.md)
 
