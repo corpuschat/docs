@@ -1,7 +1,6 @@
 ---
 title: Understanding Tokens
 description: Understanding Tokens in the Context of Large Language Models (LLMs) and how thay are used in Corpus
-youtube-video: SkGmyhrA0q4
 ---
 
 # Understanding Tokens
