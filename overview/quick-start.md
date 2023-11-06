@@ -12,7 +12,7 @@ Welcome to Corpus! This guide will walk you through the initial steps to get you
 
 ```mermaid
 flowchart LR 
-    A(Connect Knowledge Base) --> B(Training Chatbot)
+    A(Adding Knowledge Base) --> B(Training Chatbot)
     B --> C(Customizing Widget)
     C --> D(Sharing Chatbot)
 ```
