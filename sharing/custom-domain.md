@@ -1,5 +1,5 @@
 ---
-title: Custom domains
+title: Custom Domains
 description: Assigning a Custom Domain to Your Corpus Public Page
 ---
 
