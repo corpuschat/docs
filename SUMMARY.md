@@ -6,6 +6,7 @@
 * [Quick start](overview/quick-start.md)
 * [Response Quality](overview/optimize-response-quality.md)
 * [Understanding Tokens](overview/understanding-tokens.md)
+* [Navigating the App](overview/navigation.md)
   
 ## [Training on data](training-your-chatbot.md)
 
