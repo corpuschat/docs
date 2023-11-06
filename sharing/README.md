@@ -22,11 +22,11 @@ Every Corpus chatbot is assigned a public URL, which is active by default. This 
 
 ### Using a Custom Domain
 
-For a more branded experience, especially if you're on the Pro or Max plans, you can set a custom domain or subdomain (like `chat.yourdomain.com`). To learn about adding a subdomain, visit [/sharing/custom-domain.md](Custom Domain Guide ›)
+For a more branded experience, especially if you're on the Pro or Max plans, you can set a custom domain or subdomain (like `chat.yourdomain.com`). To learn about adding a subdomain, visit [Custom Domain Guide ›](/sharing/custom-domain.md)
 
 ## Disabling Public Pages
 
-If you prefer not to have a standalone public chatbot page, you can disable this feature. This might be suitable for businesses that wish to offer the chatbot experience solely within the confines of their existing website infrastructure. For more information about sharing settings, refer to [/sharing/public-url.md](Public Chatbot Page Guide ›)
+If you prefer not to have a standalone public chatbot page, you can disable this feature. This might be suitable for businesses that wish to offer the chatbot experience solely within the confines of their existing website infrastructure. For more information about sharing settings, refer to [Public Chatbot Page Guide ›](/sharing/public-url.md)
 
 Remember, even with the public page disabled, you can still share your chatbot by embedding it on your website.
 
