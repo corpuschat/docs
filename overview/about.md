@@ -31,4 +31,5 @@ Once set up, Corpus operates continually to handle customer inquiries, provide u
 Corpus offers features for marketing automation, team access, chat history access, and brand management, providing a holistic approach to managing customer interactions and driving business growth.
 
 <br>
-Ready to get started?
+
+Ready to get started? Visit our [Quick Start Guide ›](/overview/quick-start.md)
