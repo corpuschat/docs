@@ -8,6 +8,15 @@ description: Discover the steps to educate your chatbot and tailor its settings 
 
 Welcome to Corpus! This guide will walk you through the initial steps to get your chatbot up and running, ensuring it becomes a seamless part of your customer support strategy.
 
+#### Here are the steps we're going to cover
+
+```mermaid
+flowchart LR 
+    A(Adding\nKnowledge Base) --> B(Training\nChatbot)
+    B --> C(Customizing\nWidget)
+    C --> D(Sharing\nChatbot)
+```
+
 ## Adding Your Knowledge Base
 
 After you've signed up and are ready to create your first chatbot, the first task is to feed it information.
