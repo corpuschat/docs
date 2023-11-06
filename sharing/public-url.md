@@ -21,7 +21,7 @@ For users who wish to keep their chatbot private or for those who want to integr
 2. **Access Settings:** Find the settings or configuration section for your chatbot.
 3. **Disable Public Page:** Look for the option to disable the public chatbot page and toggle it off.
 
-Once disabled, the chatbot will no longer be accessible through the default Corpus URL.
+Once disabled, the chatbot will no longer be accessible through the default Corpus URL. However - you can still share your chatbot by embedding it on your website.
 
 ## Assigning a Custom Domain
 
