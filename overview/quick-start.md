@@ -59,4 +59,4 @@ Your chatbot is now ready to engage with visitors, provide support, and capture 
 
 Congratulations! Your Corpus chatbot is all set to transform your customer service experience. If you have any questions or need further assistance, our support team is here to help every step of the way.
 
-\* With your chatbot now set up and ready for interaction, the next crucial step is to optimize its responses. For detailed guidance on enhancing your chatbot's communication, visit our [Optimizing Chatbot Responses](./optimize-response-quality.md) page. This resource is invaluable for ensuring your chatbot operates at peak performance, providing users with the most accurate and helpful information.
+\* With your chatbot now set up and ready for interaction, the next crucial step is to optimize its responses. For detailed guidance on enhancing your chatbot's communication, visit our [Optimizing Chatbot Responses](/overview/optimize-response-quality.md) page. This resource is invaluable for ensuring your chatbot operates at peak performance, providing users with the most accurate and helpful information.
