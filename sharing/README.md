@@ -12,9 +12,9 @@ Corpus offers versatile options for sharing your chatbot with users. Whether you
 
 You can achive the most integrated experience by embedding the chatbot widget directly on your site. Corpus provides a snippet of JavaScript code that you can insert into your website's HTML. This allows the chatbot to live within your website's ecosystem, offering users help and interaction as they browse.
 
-[[tip Restrict access to your widget]]
+[[note Restrict access to your widget]]
 To enhance security and control over where your chatbot can be accessed, Corpus enables you to restrict the domains that can embed your chatbot widget. You can specify which websites are permitted to display your chatbot, preventing unauthorized use on other domains.
-[[/tip]]
+[[/note]]
 
 ## Public URL Access
 
