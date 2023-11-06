@@ -12,9 +12,9 @@ Whether you're looking to programmatically manage the visibility of your chatbot
 
 In this document, we will delve into the common functionalities provided by the API, such as showing or hiding the widget on your webpage, initiating conversations with auto-submitted prompts, and triggering the contact form display, among other capabilities. Each feature is designed to give you and your users a seamless and integrated chatbot experience, customizable to your unique business needs.
 
-Ready to enhance your chatbot's interactivity and responsiveness? Let's explore the capabilities of the Corpus Chatbot Widget API together.
-
-> Througout the document, we'll use `project_xYz123` as the chatbot Id. Make sure you replace it with your Chatbot Id when copying and pasting the code.
+[[info]]
+Througout the document, we'll use `project_xYz123` as the chatbot Id. Make sure you replace it with your Chatbot Id when copying and pasting the code.
+[[/info]]
 
 ## Simple install
 To display the widget on your web application, simply copy and paste the following code snippet before the closing tag on each page where you'd like the widget to be visible to site visitors.
