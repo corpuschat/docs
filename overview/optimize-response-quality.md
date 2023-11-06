@@ -8,9 +8,9 @@ description: Recognize existing AI capabilities, and learn how to use Corpus to 
 
 In the realm of AI chatbots, ensuring accurate and relevant responses is crucial for user satisfaction and operational efficiency. One key challenge in this domain is avoiding "hallucinations," where AI provides incorrect or misleading information. This document outlines strategies to optimize chatbot responses, particularly for Corpus’ ChatGPT-powered support chatbot.
 
-## Understanding Hallucinations in AI
-
+[[note Understanding Hallucinations in AI]]
 AI hallucinations refer to instances where chatbots generate false or irrelevant information. These can damage customer trust and diminish the credibility of the service. To mitigate this, it's vital to fine-tune the chatbot's parameters and content.
+[[/note]]
 
 ## Strategies to Optimize Chatbot Responses
 
