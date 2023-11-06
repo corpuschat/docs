@@ -21,16 +21,38 @@ To display the widget on your web application, simply copy and paste the followi
 
 ```html
 &lt;script&gt;
-!function(n,c){var t=n.Corpus||function(){var n=arguments;try{t[n[0]](n)}catch(n){}};<br>
-t.i=!1,t.js=function(n,t){var o=c.createElement("script"),n=(o.type="text/javascript",<br>
-o.async=!0,o.src=n,c.getElementsByTagName("script")[0]);n.parentNode.insertBefore(o,n),<br>
-o.onload=t||function(){}},t.load=function(n){t.id=n[1],t.i||t.js(<br>
-"https://corpus.gocdn.io/launcher.js?id="+n[1],function(){t.i=!0})},window.Corpus=t<br>
-}(window,document);
+!function(n,c){var t=n.Corpus||function(){var n=arguments;try{t[n[0]](n)}catch(n){}};t.i=!1,t.js=function(n,t){var o=c.createElement("script"),n=(o.type="text/javascript",o.async=!0,o.src=n,c.getElementsByTagName("script")[0]);n.parentNode.insertBefore(o,n),o.onload=t||function(){}},t.load=function(n){t.id=n[1],t.i||t.js("https://corpus.gocdn.io/launcher.js?id="+n[1],function(){t.i=!0})},window.Corpus=t}(window,document);
 
 // initialize
 Corpus('load', 'project_xYz123');
 &lt;/script&gt;
+```
+
+---
+
+## Identify users
+
+Identify the active user’s and assign your internal user’s id, name, email, and avatar, if known (all fields are optional).
+
+\* When a user is identified, the lead-capture feature will be disabled.
+
+```js
+Corpus('identify', 'internal-id', {
+  name: "John Doe",
+  email: "john.doe@gmail.com",
+  avatar: "full url to avatar image"
+});
+```
+
+or
+
+```js
+Corpus('identify', {
+  id: "internal-id", // your user identifier 
+  name: "John Doe",
+  email: "john.doe@gmail.com",
+  avatar: "full url to avatar image"
+});
 ```
 
 ---
@@ -46,7 +68,7 @@ This will initialize the widget with the launcher button hidden.
 Corpus('load', 'cOYQdfZfAU3iN3AM3SskD', 'hidden');
 ```
 
-### Corpus('hide')
+### Hide
 
 This will hide the widget panel if it is open. It will not hide the widget launcher.
 
@@ -54,7 +76,9 @@ This will hide the widget panel if it is open. It will not hide the widget launc
 Corpus('hide');
 ```
 
-## Corpus('show' [, screen [, prompt]] )
+### Show
+
+Options: `Corpus('show' [, screen [, prompt]] )`
 
 This will show the widget panel.
 
@@ -80,7 +104,7 @@ This will show the widget’s contact form.
 Corpus('show', 'contact');
 ```
 
-### Corpus('toggle')
+### Toggle
 
 This will toggle the widget panel.
 
@@ -88,7 +112,7 @@ This will toggle the widget panel.
 Corpus('show', 'toggle');
 ```
 
-### Corpus('prompt', 'question')
+### Submit Prompt
 
 A shortcut for Corpus('show', 'chat', 'QUESTION');.
 
@@ -98,7 +122,7 @@ This will show the widget’s chat form and auto-submit a prompt by the user.
 Corpus('prompt', 'How can I reset my password?');
 ```
 
-### Corpus('theme', 'themeSetting')
+### Change/Set Theme
 
 This method overrides your settings and lets you controls the widget light/dark theme display mode.
 
@@ -106,29 +130,4 @@ This method overrides your settings and lets you controls the widget light/dark 
 Corpus('theme', 'system'); // use system theme
 Corpus('theme', 'light');
 Corpus('theme', 'dark');
-```
-
-### Corpus('identify', '...')
-
-Identify the active user’s and assign your internal user’s id, name, email, and avatar, if known (all fields are optional).
-
-\* When a user is identified, the lead-capture feature will be disabled.
-
-```js
-Corpus('identify', 'internal-id', {
-  name: "John Doe",
-  email: "john.doe@gmail.com",
-  avatar: "full url to avatar image"
-});
-```
-
-or
-
-```js
-Corpus('identify', {
-  id: "internal-id", // your user identifier 
-  name: "John Doe",
-  email: "john.doe@gmail.com",
-  avatar: "full url to avatar image"
-});
 ```
