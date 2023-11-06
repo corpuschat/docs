@@ -1,6 +1,10 @@
-# Enabling and Customizing Your Public Chatbot Page on Corpus
+---
+title: Public Chatbot Page
+description: Enabling and Customizing Your Public Chatbot Page on Corpus
+---
 
-## Introduction
+# Public Chatbot Page
+## Enabling and Customizing Your Public Chatbot Page on Corpus
 
 Corpus provides a convenient feature to all its users – a public chatbot page. By default, this feature is enabled, allowing immediate access to your chatbot via a dedicated web address. This document will guide you through managing your public chatbot page, including how to disable this feature if desired and how to personalize it with a custom domain.
 
