@@ -27,7 +27,7 @@ Once disabled, the chatbot will no longer be accessible through the default Corp
 
 If you are on the Pro or Max plan, you have the added benefit of assigning a custom domain to your public chatbot page, providing a branded touch to your chatbot's URL.
 
-To learn about adding a subdomain, visit [/sharing/custom-domain.md](Custom Domain Guide ›)
+To learn about adding a subdomain, visit [Custom Domain Guide ›](/sharing/custom-domain.md)
 
 ## Conclusion
 
