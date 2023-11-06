@@ -21,6 +21,12 @@ Make sure to upload or link all the relevant data your chatbot will need to assi
 
 > [Insert Screenshot: Knowledge Base Upload Interface]
 
+## Training Your Chatbot
+
+Once your knowledge base is connected and documents are added to Corpus, the next vital step is to train your chatbot on this data. This process is essential as it equips your chatbot with the ability to generate answers that are accurate, relevant, and tailored to your specific business needs.
+
+> [Insert Screenshot: Train Chatbot Interface]
+
 ## Customizing Your Chat Widget
 
 Now, let's make the chatbot truly yours by customizing its appearance and behavior.
