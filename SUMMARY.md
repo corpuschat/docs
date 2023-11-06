@@ -42,6 +42,7 @@
 
 ## [Chatbot activity](activity/README.md)
 
+* [Insights](activity/insights.md)
 * [Contact list](activity/contacts.md)
 * [Chat history](activity/chat-sessions.md)
 
