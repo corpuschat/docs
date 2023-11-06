@@ -6,9 +6,9 @@
 
 * [What is Corpus](overview/about.md)
 * [Quick start](overview/quick-start.md)
-* [Understanding Tokens](overview/understanding-tokens.md)
 * [Response Quality](overview/optimize-response-quality.md)
-
+* [Understanding Tokens](overview/understanding-tokens.md)
+  
 ## [Training on data](training-your-chatbot.md)
 
 * [Uploading Files](sources/upload-files.md)
