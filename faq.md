@@ -1,9 +1,10 @@
 ---
 title: Frequently Asked Questions
-description: A list of commonly asked questions and their answers
+description: Get answeres to common questions about Corpus Chatbot usage and features
 ---
 
 # Frequently Asked Questions
+## Get answeres to common questions about Corpus Chatbot usage and features
 
 [[toggle Do you offer a free plan?]]
 Yes, to some extent. Upon signing up, you’ll have one chatbot and 1,000 tokens to experiment with. This is usually enough to get a feel of the platform and see if it suits your needs.
