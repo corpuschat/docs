@@ -8,10 +8,9 @@ description: Understanding Tokens in the Context of Large Language Models (LLMs)
 
 In the context of Large Language Models (LLMs) like those used in Corpus, tokens are a fundamental concept for measuring the usage of AI services. This document aims to clarify what tokens are and how they are utilized within Corpus, helping users understand their plan's token allocation and consumption.
 
-## What is a Token?
-
-- **Size:** A token is roughly equivalent to 3-4 characters or about three-quarters of an average English word.
-- **Function:** Tokens serve as the units of communication that the LLM processes, whether it's understanding input (a user's prompt) or generating output (the chatbot's response).
+[[info What is a Token?]]
+Tokens serve as the units of communication that the LLM processes, whether it's understanding input (a user's prompt) or generating output (the chatbot's response). A token is roughly equivalent to 3-4 characters or about three-quarters of an average English word.
+[[/info]]
 
 ## Token Usage in Corpus
 
