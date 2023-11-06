@@ -9,7 +9,9 @@ description: Corpus is a customer support chatbot powered by artificial intellig
 
 Corpus is a customer support chatbot powered by artificial intelligence (AI), designed to automate and streamline customer service operations. With Corpus, over 50% of customer support requests can be resolved instantly by providing timely responses to customer inquiries around the clock.
 
+[[note]]
 Unlike standard chatbots, Corpus is developed to serve as an asynchronous customer service tool. It allows for a personalized chatbot experience by enabling the customization of the chatbot's personality to align with the brand it represents. This customization extends to the domain, enabling a brand-centric user experience.
+[[/note]]
 
 One of the key advantages of Corpus is its ability to provide accurate answers by sourcing information exclusively from the provided data or knowledge base. This significantly minimizes the chances of providing incorrect or misleading information, known as "hallucinations" in AI terminology.
 
