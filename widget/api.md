@@ -28,6 +28,13 @@ Corpus('load', 'project_xYz123');
 &lt;/script&gt;
 ```
 
+To initialize the widget with the launcher hidden, overriding the default settings, use:
+
+```js
+Corpus('load', 'project_xYz123', 'hidden');
+```
+
+
 ---
 
 ## Identify users
@@ -61,14 +68,7 @@ Corpus('identify', {
 
 By loading the widget JavaScript, you gain access to a widget JavaScript object that responds to several methods. These methods enable you to interact with the messenger window.
 
-### Hide launcher
-This will initialize the widget with the launcher button hidden.
-
-```js
-Corpus('load', 'cOYQdfZfAU3iN3AM3SskD', 'hidden');
-```
-
-### Hide
+### Hide Widget
 
 This will hide the widget panel if it is open. It will not hide the widget launcher.
 
@@ -76,7 +76,7 @@ This will hide the widget panel if it is open. It will not hide the widget launc
 Corpus('hide');
 ```
 
-### Show
+### Show Widget
 
 Options: `Corpus('show' [, screen [, prompt]] )`
 
@@ -104,7 +104,7 @@ This will show the widget’s contact form.
 Corpus('show', 'contact');
 ```
 
-### Toggle
+### Toggle Widget
 
 This will toggle the widget panel.
 
