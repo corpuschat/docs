@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Welcome](README.md)
-
 ## Overview
 
 * [What is Corpus](overview/about.md)
