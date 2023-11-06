@@ -1,16 +1,16 @@
 ---
-title: Understanding AI-generated answers
-description: Corpus delivers AI answers on the public and private sources you trained it on.
-youtube-video: SkGmyhrA0q4
+title: Getting Started with Corpus
+description: Discover the steps to educate your chatbot and tailor its settings page to address typical obstacles and refine its operational capabilities.
 ---
 
 # Getting Started with Corpus
+## Discover the steps to educate your chatbot and tailor its settings page to address typical obstacles and refine its operational capabilities.
 
 Welcome to Corpus! This guide will walk you through the initial steps to get your chatbot up and running, ensuring it becomes a seamless part of your customer support strategy.
 
 [>](https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90)
 
-## Step 1: Adding Your Knowledge Base
+## Adding Your Knowledge Base
 
 After you've signed up and are ready to create your first chatbot, the first task is to feed it information.
 
@@ -23,7 +23,7 @@ Make sure to upload or link all the relevant data your chatbot will need to assi
 
 > [Insert Screenshot: Knowledge Base Upload Interface]
 
-## Step 2: Customizing Your Chat Widget
+## Customizing Your Chat Widget
 
 Now, let's make the chatbot truly yours by customizing its appearance and behavior.
 
@@ -37,7 +37,17 @@ Adjust these settings to ensure your chatbot feels like an integral part of your
 
 > [Insert Screenshot: Widget Customization Options]
 
-## Step 3: Sharing and Embedding Your Chatbot
+## Lead Generation
+
+In addition to personalizing the look and feel of your chat widget, Corpus provides powerful lead collection capabilities.
+
+- **Lead Collection:** Opt in to allow Corpus to collect leads for you. The system can identify potential leads based on user interactions and inquiries, ensuring no opportunities slip through the cracks.
+
+Ensure this feature is activated to harness the full potential of your chatbot as a lead generation tool.
+
+> [Insert Screenshot: Lead Collection Activation]
+
+## Sharing and Embedding Your Chatbot
 
 With customization complete, it's time to go live.
 
@@ -51,3 +61,4 @@ Your chatbot is now ready to engage with visitors, provide support, and capture 
 
 Congratulations! Your Corpus chatbot is all set to transform your customer service experience. If you have any questions or need further assistance, our support team is here to help every step of the way.
 
+With your chatbot now set up and ready for interaction, the next crucial step is to optimize its responses. For detailed guidance on enhancing your chatbot's communication, visit our [Optimizing Chatbot Responses](./optimize-response-quality.md) page. This resource is invaluable for ensuring your chatbot operates at peak performance, providing users with the most accurate and helpful information.
