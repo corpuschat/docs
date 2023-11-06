@@ -1,10 +1,10 @@
 ---
 title: Localization and Multilingual Support
-description: This document outlines the capabilities of Corpus in terms of language support and customization, and how you can leverage these features to enhance your customer interactions.
+description: Leverage Corpus’s multilingual support and to enhance your customer interactions
 ---
 
 # Localization and Multilingual Support
-## This document outlines the capabilities of Corpus in terms of language support and customization, and how you can leverage these features to enhance your customer interactions.
+## Leverage Corpus’s multilingual support and to enhance your customer interactions
 
 In today's global marketplace, the ability to communicate with customers in their native language is invaluable. Corpus's localization options and support for non-English languages provide a versatile and inclusive platform for businesses to engage with a diverse customer base. 
 
