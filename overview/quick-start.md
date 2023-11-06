@@ -8,8 +8,6 @@ description: Discover the steps to educate your chatbot and tailor its settings 
 
 Welcome to Corpus! This guide will walk you through the initial steps to get your chatbot up and running, ensuring it becomes a seamless part of your customer support strategy.
 
-[>](https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90)
-
 ## Adding Your Knowledge Base
 
 After you've signed up and are ready to create your first chatbot, the first task is to feed it information.
@@ -61,4 +59,4 @@ Your chatbot is now ready to engage with visitors, provide support, and capture 
 
 Congratulations! Your Corpus chatbot is all set to transform your customer service experience. If you have any questions or need further assistance, our support team is here to help every step of the way.
 
-With your chatbot now set up and ready for interaction, the next crucial step is to optimize its responses. For detailed guidance on enhancing your chatbot's communication, visit our [Optimizing Chatbot Responses](./optimize-response-quality.md) page. This resource is invaluable for ensuring your chatbot operates at peak performance, providing users with the most accurate and helpful information.
+\* With your chatbot now set up and ready for interaction, the next crucial step is to optimize its responses. For detailed guidance on enhancing your chatbot's communication, visit our [Optimizing Chatbot Responses](./optimize-response-quality.md) page. This resource is invaluable for ensuring your chatbot operates at peak performance, providing users with the most accurate and helpful information.
