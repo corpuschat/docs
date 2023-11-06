@@ -25,15 +25,11 @@ For users who wish to keep their chatbot private or for those who want to integr
 
 Once disabled, the chatbot will no longer be accessible through the default Corpus URL.
 
-## Assigning a Custom Domain on Pro or Max Plans
+## Assigning a Custom Domain
 
-If you are on the Pro or Max plan, you have the added benefit of assigning a custom domain to your public chatbot page, providing a branded touch to your chatbot's URL. To do this:
+If you are on the Pro or Max plan, you have the added benefit of assigning a custom domain to your public chatbot page, providing a branded touch to your chatbot's URL.
 
-1. **Choose a Domain:** Select a custom domain or subdomain that you own (e.g., `chat.yourdomain.com`).
-2. **Update DNS Records:** Point your domain to Corpus servers by adding a CNAME record in your DNS settings, directing it to `hosting.corpuschat.app`.
-3. **Verify the Connection:** Back in your Corpus dashboard, verify the DNS settings to ensure that your custom domain properly points to your public chatbot page.
-
-With these steps, your chatbot will be accessible through your chosen domain, making it fully part of your digital ecosystem.
+To learn about adding a subdomain, visit [/sharing/custom-domain.md](Custom Domain Guide ›)
 
 ## Conclusion
 
