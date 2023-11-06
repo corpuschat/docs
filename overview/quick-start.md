@@ -39,17 +39,11 @@ Now, let's make the chatbot truly yours by customizing its appearance and behavi
 
 Adjust these settings to ensure your chatbot feels like an integral part of your team.
 
+[[tip Lead Generation]]
+In addition to personalizing the look and feel of your chat widget, Corpus provides powerful lead collection capabilities. The system can identify potential leads based on user interactions and inquiries, ensuring no opportunities slip through the cracks.
+[[/tip]]
+
 > [Insert Screenshot: Widget Customization Options]
-
-## Lead Generation
-
-In addition to personalizing the look and feel of your chat widget, Corpus provides powerful lead collection capabilities.
-
-- **Lead Collection:** Opt in to allow Corpus to collect leads for you. The system can identify potential leads based on user interactions and inquiries, ensuring no opportunities slip through the cracks.
-
-Ensure this feature is activated to harness the full potential of your chatbot as a lead generation tool.
-
-> [Insert Screenshot: Lead Collection Activation]
 
 ## Sharing Your Chatbot
 
