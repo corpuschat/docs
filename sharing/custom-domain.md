@@ -8,12 +8,9 @@ description: Assigning a Custom Domain to Your Corpus Public Page
 
 Custom domains serve as a powerful branding tool, allowing you to seamlessly integrate your Corpus chatbot into your existing online presence. This document guides you through the process of setting up a custom domain for your Corpus public page, ensuring a branded and professional appearance for your chatbot interface.
 
-## Prerequisites
-
-Before you begin, ensure you meet the following requirements:
-
-- **Subscription Plan:** You must have a Pro or Max plan with Corpus to use a custom domain.
-- **Domain Ownership:** You need to own a domain or have permissions to modify its DNS records.
+[[warning]]
+Custom domains are available for customers on the Pro or Max plans.
+[[/warning]]
 
 ## Steps to Assign a Custom Domain
 
