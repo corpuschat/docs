@@ -45,7 +45,7 @@ Ensure this feature is activated to harness the full potential of your chatbot a
 
 > [Insert Screenshot: Lead Collection Activation]
 
-## Sharing and Embedding Your Chatbot
+## Sharing Your Chatbot
 
 With customization complete, it's time to go live.
 
