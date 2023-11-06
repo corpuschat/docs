@@ -19,7 +19,7 @@ Ready to enhance your chatbot's interactivity and responsiveness? Let's explore 
 ## Simple install
 To display the widget on your web application, simply copy and paste the following code snippet before the closing tag on each page where you'd like the widget to be visible to site visitors.
 
-```html
+```html {7}
 &lt;script&gt;
 !function(n,c){var t=n.Corpus||function(){var n=arguments;try{t[n[0]](n)}catch(n){}};t.i=!1,t.js=function(n,t){var o=c.createElement("script"),n=(o.type="text/javascript",o.async=!0,o.src=n,c.getElementsByTagName("script")[0]);n.parentNode.insertBefore(o,n),o.onload=t||function(){}},t.load=function(n){t.id=n[1],t.i||t.js("https://corpus.gocdn.io/launcher.js?id="+n[1],function(){t.i=!0})},window.Corpus=t}(window,document);
 
