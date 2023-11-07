@@ -51,7 +51,7 @@
 ## Misc
 
 * [Usage Metrics](misc/metrics.md)
-* [Billing](misc/billing.md)
+* [Plans & Billing](misc/billing.md)
 * [Getting support](misc/support.md)
 
 
