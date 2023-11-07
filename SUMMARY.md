@@ -26,7 +26,7 @@
 
 ## [Chatbot Widget](widget/README.md)
 
-* [Branding and Appearance](widget/appearance.md)
+* [Branding / Appearance](widget/appearance.md)
 * [Home screen](widget/home-screen.md)
 * [Chat window](widget/ai-chatbot.md)
   * [Custom prompt](widget/custom-prompt.md)
