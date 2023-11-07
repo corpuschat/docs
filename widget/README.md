@@ -15,6 +15,11 @@ The widget is thoughtfully segmented into three main sections, each serving a di
 :::: cols=3
 
 (home-screen.md)[[card Home Screen]]
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="width:64px;height:64px">
+<path d="M17 4.00486C14.7988 2.2705 13.4921 1.40332 12 1.40332C10.2461 1.40332 8.74843 2.60147 5.75306 4.99776L5.5487 5.16125C3.90733 6.47434 3.08665 7.13089 2.6045 8.02015C2.52697 8.16316 2.45646 8.30987 2.39322 8.45975C2.00002 9.39176 2.00002 10.4428 2.00002 12.5447V17.0002C2.00002 19.7616 4.23859 22.0002 7.00002 22.0002C8.10458 22.0002 9.00002 21.1048 9.00002 20.0002V16.0001C9.00002 14.3433 10.3432 13.0001 12 13.0001C13.6569 13.0001 15 14.3433 15 16.0001V20.0002C15 21.1048 15.8954 22.0002 17 22.0002C19.7614 22.0002 22 19.7616 22 17.0002V12.5447C22 10.4428 22 9.39176 21.6068 8.45975C21.5436 8.30987 21.4731 8.16316 21.3955 8.02015C21.0976 7.47061 20.6703 7.00994 20 6.42827"></path>
+</svg>
+        
 The welcoming gateway, setting the initial tone for user interaction.
 [[/card]]
 
@@ -29,32 +34,6 @@ A direct line for users to escalate their queries or reach out for further human
 [[/card]]
 
 ::::
-
-(home-screen.md)[[card Home Screen]]
-The welcoming gateway, setting the initial tone for user interaction.
-[[/card]]
-
-
-(ai-chatbot.md)[[card Main Chat Window]]
-The core area where users converse with the chatbot, gaining information and assistance.
-[[/card]]
-
-
-(contact-form.md)[[card Contact Form]]
-A direct line for users to escalate their queries or reach out for further human support.
-[[/card]]
-
-- **Home Screen:** The welcoming gateway, setting the initial tone for user interaction.
-  
-> [Insert Screenshot: Home Screen Appearance]
-
-- **Main Chat Window:** The core area where users converse with the chatbot, gaining information and assistance.
-  
-> [Insert Screenshot: Main Chat Window]
-
-- **Contact Form:** A direct line for users to escalate their queries or reach out for further human support.
-
-> [Insert Screenshot: Contact Form within Widget]
 
 ### Customization at Your Fingertips
 
