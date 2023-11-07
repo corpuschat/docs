@@ -119,7 +119,7 @@ Learn how the Chatbot widget is maximizing user engagement.
 <h4 style="margin:7px 0 0 0">RSS Feeds</h4>
 [[/card]]
 
-(/sources/database)[[card]]
+(/sources/youtube)[[card]]
 <img src="data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xNS4zMiA0LjA2Yy0uNDM0LS43NzItLjkwNS0uOTE0LTEuODY0LS45NjhDMTIuNDk4IDMuMDI3IDEwLjA4OSAzIDguMDAyIDNjLTIuMDkxIDAtNC41MDEuMDI3LTUuNDU4LjA5MS0uOTU3LjA1NS0xLjQyOS4xOTYtMS44NjcuOTY5Qy4yMyA0LjgzMSAwIDYuMTU5IDAgOC40OTd2LjAwOGMwIDIuMzI4LjIzIDMuNjY2LjY3NyA0LjQyOS40MzguNzcyLjkwOS45MTIgMS44NjYuOTc3Ljk1OC4wNTYgMy4zNjguMDg5IDUuNDU5LjA4OSAyLjA4NyAwIDQuNDk2LS4wMzMgNS40NTUtLjA4OC45NTktLjA2NSAxLjQzLS4yMDUgMS44NjQtLjk3Ny40NTEtLjc2My42NzktMi4xMDEuNjc5LTQuNDI5di0uMDA4YzAtMi4zMzktLjIyOC0zLjY2Ny0uNjgtNC40Mzh6IiBmaWxsPSIjRjQ0MzM2Ii8+PHBhdGggZmlsbD0iI0ZBRkFGQSIgZD0iTTYgMTEuNXYtNmw1IDN6Ii8+PC9nPjwvc3ZnPg==" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -5px">
 <h4 style="margin:7px 0 0 0">YouTube Videos</h4>
 [[/card]]
