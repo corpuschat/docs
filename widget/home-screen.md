@@ -25,9 +25,9 @@ Facilitate immediate interaction by setting up pre-defined prompts:
 
 > [Insert Screenshot: Pre-Defined Prompts Setup]
 
-[[info COMING SOOM: Expansion with Apps]]
+[[tip COMING SOOM: Expansion with Apps]]
 The home screen's capabilities are set to expand, integrating with applications to enhance user interaction like Calendly for appointments, uptime status for service availability, changelog updates, and more. These integrations will provide users with valuable tools and information directly on the home screen.
-[[/info]]
+[[/tip]]
 
 ### Setting Up Your Home Screen
 
