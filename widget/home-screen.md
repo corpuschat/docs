@@ -1,21 +1,43 @@
-# 🏠 Home screen
+---
+title: The Home Screen
+description: The home screen encourages users to engage with your Chatbot by greeting them and allowing them to start a new chat with a single click
+---
 
-## How Projects work
+# The Home Screen
+## The home screen encourages users to engage with your Chatbot by greeting them and allowing them to start a new chat with a single click
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+The home screen of the Corpus chatbot widget serves as the virtual front door to your customer support and engagement strategy. Thoughtfully designed to welcome users and prompt interaction, the home screen is a critical touchpoint that can significantly enhance the user experience.
 
-### The Basics
+### Customized Greeting
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+Leverage personalized greetings to establish an immediate connection with users:
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+- **Personalization Tokens:** Incorporate `{firstname|FALLBACK}` within your greeting message to dynamically insert the user's name, provided they are identified, which adds a personal touch to the welcome message.
 
-### Creating a Project
+> [Insert Screenshot: Personalized Greeting Configuration]
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+### Pre-Defined Prompts for Quick Engagement
 
-### Organizing your Projects
+Facilitate immediate interaction by setting up pre-defined prompts:
 
-Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui.
+- **One-Click Queries:** Curate a list of prompts that users can click on to start a conversation, streamlining their path to engagement.
+- **Visible Cues:** These prompts are displayed even before the widget is opened, subtly encouraging users to engage with the chatbot.
 
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+> [Insert Screenshot: Pre-Defined Prompts Setup]
+
+[[info COMING SOOM: Expansion with Apps]]
+The home screen's capabilities are set to expand, integrating with applications to enhance user interaction like Calendly for appointments, uptime status for service availability, changelog updates, and more. These integrations will provide users with valuable tools and information directly on the home screen.
+[[/info]]
+
+### Setting Up Your Home Screen
+
+Configuring your widget’s home screen is straightforward:
+
+- **Widget Settings Page:** Navigate to the widget settings in your Corpus dashboard to customize the home screen.
+- **Design and Content:** Choose the design elements and content that best represent your brand and message.
+
+> [Insert Screenshot: Home Screen Settings]
+
+### Conclusion
+
+The Corpus chatbot widget’s home screen is your opportunity to make a lasting first impression. By personalizing greetings, offering quick-start prompts, and planning for future app integrations, you can create an inviting and interactive experience for your users. Customizing the home screen is just one of the many ways Corpus allows you to cater to your customers' needs while showcasing your brand’s unique personality.
