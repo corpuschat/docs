@@ -129,10 +129,5 @@ Learn how the Chatbot widget is maximizing user engagement.
 <h4 style="margin:7px 0 0 0">Database</h4>
 [[/card]]
 
-[[card]]
-<img src="data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZD0iTTQyIDMwYy0zLjMxMiAwLTYtMi42ODgtNi02czIuNjg4LTYgNi02IDYgMi42ODggNiA2LTIuNjg4IDYtNiA2em0tMTggMGMtMy4zMTIgMC02LTIuNjg4LTYtNnMyLjY4OC02IDYtNiA2IDIuNjg4IDYgNi0yLjY4OCA2LTYgNnpNNiAzMGMtMy4zMTIgMC02LTIuNjg4LTYtNnMyLjY4OC02IDYtNiA2IDIuNjg4IDYgNi0yLjY4OCA2LTYgNnoiLz48L3N2Zz4=" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -5px">
-<h4 style="margin:7px 0 0 0">More comign soon</h4>
-[[/card]]
-
 
 ::::
