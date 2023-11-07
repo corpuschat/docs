@@ -59,7 +59,27 @@ Learn how the Chatbot widget is maximizing user engagement.
 
 :::: cols=3
 
-(/sources/knowledge-bases/notion)[[card]]
+(/sources/files)[[card]]
+<img src="https://app.corpus.chat/static/img/source-files.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Files</h4>
+[[/card]]
+
+(/sources/text)[[card]]
+<img src="https://app.corpus.chat/static/img/source-files.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Text/Makddown</h4>
+[[/card]]
+
+(/sources/website)[[card]]
+<img src="https://app.corpus.chat/static/img/source-website.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Website</h4>
+[[/card]]
+
+(/sources/sitemap)[[card]]
+<img src="https://app.corpus.chat/static/img/source-sitemap.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<h4 style="margin:7px 0 0 0">Sitemaps</h4>
+[[/card]]
+
+(/sources/notion)[[card]]
 <img src="https://app.corpus.chat/static/img/source-notion.svg" class="dark-invert" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Notion</h4>
 [[/card]]
@@ -74,50 +94,37 @@ Learn how the Chatbot widget is maximizing user engagement.
 <h4 style="margin:7px 0 0 0">Google</h4>
 [[/card]]
 
-(/sources/knowledge-bases/hubspot)[[card]]
+(/sources/hubspot)[[card]]
 <img src="https://app.corpus.chat/static/img/source-hubspot.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">Google</h4>
 [[/card]]
 
-(/sources/knowledge-bases/intercom)[[card]]
+(/sources/intercom)[[card]]
 <img src="https://app.corpus.chat/static/img/source-intercom.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">intercom</h4>
 [[/card]]
 
-(/sources/knowledge-bases/zendesk)[[card]]
+(/sources/zendesk)[[card]]
 <img src="https://app.corpus.chat/static/img/source-zendesk.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">zendesk</h4>
 [[/card]]
 
-(/sources/web/sitemap)[[card]]
-<img src="https://app.corpus.chat/static/img/source-sitemap.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
-<h4 style="margin:7px 0 0 0">sitemap</h4>
-[[/card]]
-
-(/sources/web/website)[[card]]
-<img src="https://app.corpus.chat/static/img/source-website.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
-<h4 style="margin:7px 0 0 0">website</h4>
-[[/card]]
-
-(/sources/web/wordpress)[[card]]
+(/sources/wordpress)[[card]]
 <img src="https://app.corpus.chat/static/img/source-wordpress.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">wordpress</h4>
 [[/card]]
 
-(/sources/web/feed)[[card]]
+(/sources/feed)[[card]]
 <img src="https://app.corpus.chat/static/img/source-feed.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
 <h4 style="margin:7px 0 0 0">feed</h4>
 [[/card]]
 
-(/sources/knowledge-bases/google)[[card]]
+(/sources/database)[[card]]
 <img src="https://app.corpus.chat/static/img/source-google.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
-<h4 style="margin:7px 0 0 0">Google</h4>
+<h4 style="margin:7px 0 0 0">Database</h4>
 [[/card]]
 
-(/sources/other/uploaded-files)[[card]]
-<img src="https://app.corpus.chat/static/img/source-files.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
-<h4 style="margin:7px 0 0 0">files</h4>
-[[/card]]
+
 
 
 ::::
