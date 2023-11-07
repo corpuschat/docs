@@ -12,7 +12,7 @@
 
 * [Uploading Files](sources/files.md)
 * [Text / Markdown](sources/text.md)
-* [Website](sources/web.md)
+* [Website / URLs](sources/web.md)
   * [Sitemap](sources/sitemap.md)
   * [Website (server-rendered)](sources/website.md)
   * [Wordpress](sources/wordpress.md)
