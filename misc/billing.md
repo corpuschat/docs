@@ -10,7 +10,7 @@ Corpus has integrated Stripe, a leading online payment processing platform, to m
 
 ### Subscription Plans
 
-To understand the specifics of each plan's token allocation and features, refer to the billing page on the web app or explore the [pricing page](https://corpus.chat/pricing) on our website.
+To understand the specifics of each plan's token allocation and features, refer to the billing page on the web app or explore the <a href="https://corpus.chat/pricing" target="pricing-page">pricing page</a> on our website.
 
 ### Subscription Changes
 
