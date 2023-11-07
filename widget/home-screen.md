@@ -1,10 +1,10 @@
 ---
 title: The Home Screen
-description: The home screen encourages users to engage with your Chatbot by greeting them and allowing them to start a new chat with a single click
+description: Learn how to use the home screen to encourage engagement using a personalized greeting and a one-click conversation starters
 ---
 
 # The Home Screen
-## The home screen encourages users to engage with your Chatbot by greeting them and allowing them to start a new chat with a single click
+## Learn how to use the home screen to encourage engagement using a personalized greeting and a one-click conversation starters
 
 The home screen of the Corpus chatbot widget serves as the virtual front door to your customer support and engagement strategy. Thoughtfully designed to welcome users and prompt interaction, the home screen is a critical touchpoint that can significantly enhance the user experience.
 
