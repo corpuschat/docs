@@ -12,7 +12,7 @@ Corpus has integrated Stripe, a leading online payment processing platform, to m
 
 To understand the specifics of each plan's token allocation and features, refer to the billing page on the web app or explore the [pricing page](https://corpus.chat/pricing) on our website.
 
-### Subscription Activation and Plan Upgrades
+### Subscription Changes
 
 - **Immediate Activation:** Upon selecting a subscription plan, you'll be directed to Stripe's secure checkout page to complete your payment details, activating your subscription without delay.
 - **Prorated Upgrades:** Should you decide to upgrade your plan, the payment will be prorated, ensuring you only pay for the difference based on the remaining time in your billing cycle.
