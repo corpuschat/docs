@@ -23,8 +23,8 @@ Tokens serve as the units of communication that the LLM processes, whether it's 
 Different models within the Corpus platform consume tokens at varying rates:
 
 - **GPT-3.5 Model (default):** Consumption occurs at the base rate determined by the length of content processed.
-- **GPT-3.5-Turbo-16K Model:** Tokens are used at twice the base rate due to the enhanced capabilities and data processing limits of this model.
-- **GPT-4 Model:** Utilizes tokens at a rate ten times the base rate, reflecting its advanced understanding and response generation abilities.
+- **GPT-3.5-Turbo-16K Model:** Tokens are consumed at twice the base rate due to the enhanced capabilities and data processing limits of this model.
+- **GPT-4 Model:** The most advanced model available, consuming tokens at a rate ten times the base rate, reflecting its advanced reasoning and response generation abilities.
 - **GPT-4-Turbo-128K Model:** A variant of the GPT-4 Model, which can process context windows of up to 128,000 tokens (coming soon).
 
 ## Implications of Token Consumption
