@@ -14,16 +14,18 @@ The widget is thoughtfully segmented into three main sections, each serving a di
 
 :::: cols=3
 
-[[card another title]]
-This is the content
+(home-screen.md)[[card Home Screen]]
+The welcoming gateway, setting the initial tone for user interaction.
 [[/card]]
 
-[[card another title]]
-This is the content
+
+(ai-chatbot.md)[[card Main Chat Window]]
+The core area where users converse with the chatbot, gaining information and assistance.
 [[/card]]
 
-[[card another title]]
-This is the content
+
+(contact-form.md)[[card Contact Form]]
+A direct line for users to escalate their queries or reach out for further human support.
 [[/card]]
 
 ::::
