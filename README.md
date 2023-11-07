@@ -5,15 +5,13 @@ hide-nav: true
 
 # Corpus Documentation
 
-## Welcome to the home of Corpus documentation. Explore our guides and examples to integrate Corpus’ Al-powered customer support chatbot for your website.
+## On this site, you'll find everything you need to seamlessly integrate Corpus into your business and start delivering exceptional support experiences in no time.
 
-![](./media/docs-hero.png)
+![Corpus.Chat](./media/docs-hero.png)
 
 ## Getting started
 
 Meet Corpus, the cutting-edge, AI-powered customer support chatbot, that was engineered to revolutionize your customer service operations, offering instant resolutions to over half of all customer inquiries, any time of day. 
-
-On this site, you'll find everything you need to seamlessly integrate Corpus into your business and start delivering exceptional support experiences without delay.
 
 :::: cols=2
 
@@ -23,7 +21,7 @@ On this site, you'll find everything you need to seamlessly integrate Corpus int
 </svg>
 
 #### What is Corpus
-An introductory overview of Corpus’ features and capabilities.
+An introductory guide, providing an overview of Corpus’ features and capabilities.
 [[/card]]
 
 
@@ -41,7 +39,7 @@ Integrate Corpus’ Al-powered customer support chatbot for your website in no t
 <path d="M3.5 20.5L5 19M19 5L20.5 3.5M9 15L13 11M11 21V21C11.5452 20.4548 11.8179 20.1821 11.9636 19.888C12.2409 19.3285 12.2409 18.6715 11.9636 18.112C11.8179 17.8179 11.5453 17.5453 11 17L7 13C6.45475 12.4548 6.18213 12.1821 5.88803 12.0364C5.32848 11.7591 4.67152 11.7591 4.11197 12.0364C3.81787 12.1821 3.54525 12.4548 3 13V13C2.45475 13.5452 2.18213 13.8179 2.03639 14.112C1.75911 14.6715 1.75911 15.3285 2.03639 15.888C2.18213 16.1821 2.45475 16.4547 3 17L7 21C7.54525 21.5452 7.81787 21.8179 8.11197 21.9636C8.67152 22.2409 9.32848 22.2409 9.88803 21.9636C10.1821 21.8179 10.4548 21.5452 11 21ZM21 11V11C21.5452 10.4548 21.8179 10.1821 21.9636 9.88803C22.2409 9.32848 22.2409 8.67152 21.9636 8.11197C21.8179 7.81787 21.5453 7.54525 21 7L17 3C16.4548 2.45475 16.1821 2.18213 15.888 2.03639C15.3285 1.75911 14.6715 1.75911 14.112 2.03639C13.8179 2.18213 13.5452 2.45475 13 3V3C12.4548 3.54525 12.1821 3.81787 12.0364 4.11197C11.7591 4.67152 11.7591 5.32848 12.0364 5.88803C12.1821 6.18213 12.4547 6.45475 13 7L17 11C17.5452 11.5452 17.8179 11.8179 18.112 11.9636C18.6715 12.2409 19.3285 12.2409 19.888 11.9636C20.1821 11.8179 20.4548 11.5452 21 11Z" ></path>
 </svg>
 
-#### Tranining your Chatbot
+#### Training your Chatbot
 The main area for users to converse with your bot to information and assistance.
 [[/card]]
 
