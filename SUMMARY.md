@@ -24,9 +24,9 @@
   * [HubSpot](sources/hubspot.md)
   * [Database](sources/database.md)
 
-## [Chat Widget](widget/README.md)
+## [Chatbot Widget](widget/README.md)
 
-* [Appearance](widget/appearance.md)
+* [Branding and Appearance](widget/appearance.md)
 * [Home screen](widget/home-screen.md)
 * [Chat window](widget/ai-chatbot.md)
   * [Custom prompt](widget/custom-prompt.md)
