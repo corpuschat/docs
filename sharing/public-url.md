@@ -10,8 +10,8 @@ Corpus provides a convenient feature to all its users – a public chatbot page.
 
 Upon creating your chatbot with Corpus, a public page is automatically generated for you. Here's how you can access it:
 
-- **Standard URL:** Your chatbot's default address will be in the format of `project-id.corpuschat.app` where "project-id" is a unique identifier for your project.
-- **Fullscreen Mode:** If you prefer a distraction-free, fullscreen experience, simply append `/fullscreen` to your URL like this: `project-id.corpuschat.app/fullscreen`.
+- **Standard URL:** Your chatbot's default address will be in the format of `chatbot-id.corpuschat.app` where "chatbot-id" is a unique identifier for your project.
+- **Fullscreen Mode:** If you prefer a distraction-free, fullscreen experience, simply append `/fullscreen` to your URL like this: `chatbot-id.corpuschat.app/fullscreen`.
 
 ## Disabling the Public Pages
 
