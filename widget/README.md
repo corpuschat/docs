@@ -1,5 +1,5 @@
 ---
-title: The Chatbot widget
+title: The Chatbot Widget
 description: Maximizing user engagement with the Corpus Chatbot widget
 ---
 
