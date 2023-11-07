@@ -4,7 +4,7 @@ description: Learn how set up your Chatbot to capture leads through intelligent 
 ---
 
 # Lead Generation
-# Learn how set up your Chatbot to capture leads through intelligent interactions
+## Learn how set up your Chatbot to capture leads through intelligent interactions
 
 Lead generation is a pivotal feature of the Corpus chatbot, designed to convert casual conversations into valuable business opportunities. This document will walk you through the lead capture process integrated within the chatbot and explain how to manage this functionality to align with your business strategy.
 
