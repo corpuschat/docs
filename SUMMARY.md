@@ -41,14 +41,17 @@
 * [Public URL](sharing/public-url.md)
 * [Custom domain](sharing/custom-domain.md)
 
-## [Chatbot activity](activity/README.md)
+## [CRM Activity](activity/README.md)
 
-* [Insights](activity/insights.md)
-* [Contact list](activity/contacts.md)
-* [Chat history](activity/chat-sessions.md)
+* [Insights](crm/insights.md)
+* [Contact list](crm/contacts.md)
+* [Chat history](crm/chat-history.md)
 
 
-## Billing
+## Misc
 
-* [Usage Metrics](usecases/for-sales-pre-sales.md)
-* [Subscriptions](usecases/for-customer-support.md)
+* [Usage Metrics](misc/metrics.md)
+* [Billing](misc/billing.md)
+* [Getting support](misc/support.md)
+
+
