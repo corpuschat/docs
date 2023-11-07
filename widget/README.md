@@ -10,7 +10,7 @@ The Corpus Chatbot Widget stands as the most versatile and customizable point of
 
 ### Widget Composition
 
-The widget is thoughtfully segmented into three main sections, each serving a distinct purpose in the user journey:
+The widget is thoughtfully segmented into three main sections, each serving a distinct purpose in the user journey. Click on each box for more information.
 
 :::: cols=3
 
