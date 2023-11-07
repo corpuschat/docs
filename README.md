@@ -90,7 +90,7 @@ Learn how the Chatbot widget is maximizing user engagement.
 [[/card]]
 
 (/sources/google)[[card]]
-<img src="https://app.corpus.chat/static/img/source-google-drive.svg" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -10px">
+<img src="data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZD0ibTE1LjQ2NyAxMC00LjgtOUg1LjMzM2w0LjggOXpNNC43NDcgMi4wMjYgMCAxMC4zMzMgMi42NjcgMTVsNC42NTUtOC4xNDZ6TTYuMTA0IDExbC0yLjI4NiA0SDEzLjVsMi41LTR6Ii8+PC9zdmc+" style="width:2.5rem;height:2.5rem;float:left;margin:0 10px -5px -5px">
 <h4 style="margin:7px 0 0 0">Google</h4>
 [[/card]]
 
