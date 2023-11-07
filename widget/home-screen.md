@@ -10,9 +10,7 @@ The home screen of the Corpus chatbot widget serves as the virtual front door to
 
 ### Customized Greeting
 
-Leverage personalized greetings to establish an immediate connection with users:
-
-- **Personalization Tokens:** Incorporate `{firstname|FALLBACK}` within your greeting message to dynamically insert the user's name, provided they are identified, which adds a personal touch to the welcome message.
+Leverage personalized greetings to establish an immediate connection with users using **Personalization Tokens**. Incorporate `{firstname|FALLBACK}` within your greeting message to dynamically insert the user's name, provided they are identified, which adds a personal touch to the welcome message.
 
 > [Insert Screenshot: Personalized Greeting Configuration]
 
