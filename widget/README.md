@@ -20,7 +20,7 @@ The widget is thoughtfully segmented into three main sections, each serving a di
 </svg>
 
 #### Home Screen
-The welcoming gateway, setting the initial tone for user interaction.
+A welcoming gateway, greeting, and setting the initial tone for user interaction.
 [[/card]]
 
 
@@ -30,7 +30,7 @@ The welcoming gateway, setting the initial tone for user interaction.
 </svg>
 
 #### Chat Window
-The core area where users converse with the chatbot, gaining information and assistance.
+The main area for users to converse with your bot to information and assistance.
 [[/card]]
 
 
@@ -40,7 +40,7 @@ The core area where users converse with the chatbot, gaining information and ass
 </svg>
 
 #### Contact Form
-A direct line for users to escalate their queries or reach out for further human support.
+A direct line for users to escalate requests or reach out for further human support.
 [[/card]]
 
 ::::
