@@ -14,7 +14,7 @@
 * [Text / Markdown](sources/text.md)
 * [Website / URLs](sources/web.md)
   * [Sitemap](sources/sitemap.md)
-  * [Website (server-rendered)](sources/website.md)
+  * [Websites)](sources/website.md)
   * [Wordpress](sources/wordpress.md)
   * [RSS Feeds](sources/feed.md)
 * [Knowledge Bases](sources/knowledge-bases.md)
