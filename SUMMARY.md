@@ -12,9 +12,9 @@
 
 * [Uploading Files](sources/files.md)
 * [Text / Markdown](sources/text.md)
-* [Web](sources/web.md)
-  * [Sitemaps](sources/sitemap.md)
-  * [URLs / Website](sources/website.md)
+* [Website](sources/web.md)
+  * [Sitemap](sources/sitemap.md)
+  * [Website (server-rendered)](sources/website.md)
   * [Wordpress](sources/wordpress.md)
   * [RSS Feeds](sources/feed.md)
 * [Knowledge Bases](sources/knowledge-bases.md)
@@ -23,10 +23,9 @@
   * [Notion](sources/notion.md)
   * [Intercom](sources/intercom.md)
   * [Zensesk](sources/zendesk.md)
-* [Other](sources/other.md)
-  * [Google Drive](sources/google.md)
-  * [YouTube Videos](sources/youtube.md)
-  * [SQL Database](sources/database.md)
+* [Google Drive](sources/google.md)
+* [YouTube Videos](sources/youtube.md)
+* [SQL Database](sources/database.md)
 
 ## [Chatbot Widget](widget/README.md)
 
