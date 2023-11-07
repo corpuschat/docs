@@ -13,6 +13,7 @@ The Corpus Chatbot Widget stands as the most versatile and customizable point of
 The widget is thoughtfully segmented into three main sections, each serving a distinct purpose in the user journey:
 
 :::: cols=3
+
 [[card another title]]
 This is the content
 [[/card]]
@@ -27,8 +28,18 @@ This is the content
 
 ::::
 
-(/link/to)[[card Home Screen]]
+(home-screen.md)[[card Home Screen]]
 The welcoming gateway, setting the initial tone for user interaction.
+[[/card]]
+
+
+(ai-chatbot.md)[[card Main Chat Window]]
+The core area where users converse with the chatbot, gaining information and assistance.
+[[/card]]
+
+
+(contact-form.md)[[card Contact Form]]
+A direct line for users to escalate their queries or reach out for further human support.
 [[/card]]
 
 - **Home Screen:** The welcoming gateway, setting the initial tone for user interaction.
