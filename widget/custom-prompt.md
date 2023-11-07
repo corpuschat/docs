@@ -3,6 +3,9 @@ title: Prompt Customization
 description: Enhancing engagement with custom prompt instructions for Chatbot
 ---
 
+# Prompt Customization
+## Enhancing engagement with custom prompt instructions for Chatbot
+
 Custom Prompt Instructions are a powerful feature of the Corpus chatbot, enabling you to refine the bot's responses to align with your communication strategy and enhance user interaction quality. This document provides guidance on how to implement these instructions to personalize the chatbot's tone, style, and content.
 
 ### Customizing Response Behavior
