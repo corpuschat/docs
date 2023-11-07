@@ -46,7 +46,7 @@ The main area for users to converse with your bot to information and assistance.
 [[/card]]
 
 (/widget)[[card]]
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="width:40px;height:40px;margin-bottom:20px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" style="width:40px;height:40px;margin-bottom:20px">
 <g fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="1.9"><path d="m3.6 10.1h4.7c.9 0 1.7-.7 1.7-1.7v-4.6c0-.9-.7-1.7-1.7-1.7h-4.7c-.9 0-1.6.8-1.6 1.7v4.7c0 .9.7 1.6 1.6 1.6z"></path><path d="m3.8 21.7h4.7c.9 0 1.7-.7 1.7-1.7v-4.7c0-.9-.7-1.7-1.7-1.7h-4.7c-.9 0-1.7.7-1.7 1.7v4.7c0 1 .7 1.7 1.7 1.7z"></path><path d="m15.6 21.7h4.7c.9 0 1.7-.7 1.7-1.7v-4.7c0-.9-.7-1.7-1.7-1.7h-4.7c-.9 0-1.7.7-1.7 1.7v4.7c0 1 .8 1.7 1.7 1.7z"></path><path d="m18.9 10.5 3.2-3.2c.6-.6.6-1.7 0-2.3l-3.2-3.2c-.6-.6-1.7-.6-2.3 0l-3.1 3.2c-.6.6-.6 1.7 0 2.3l3.2 3.2c.6.6 1.6.6 2.2 0z"></path>
 </svg>
 
