@@ -14,8 +14,7 @@ To understand the specifics of each plan's token allocation and features, refer 
 
 ### Subscription Changes
 
-- **Immediate Activation:** Upon selecting a subscription plan, you'll be directed to Stripe's secure checkout page to complete your payment details, activating your subscription without delay.
-- **Prorated Upgrades:** Should you decide to upgrade your plan, the payment will be prorated, ensuring you only pay for the difference based on the remaining time in your billing cycle.
+Upon selecting a subscription plan, you'll be directed to Stripe's secure checkout page to complete your payment details, activating your subscription without delay. Should you decide to upgrade your plan, the payment will be prorated, ensuring you only pay for the difference based on the remaining time in your billing cycle.
 
 > [Insert Screenshot: Plan Upgrade Interface]
 
