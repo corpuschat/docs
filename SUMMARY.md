@@ -10,10 +10,11 @@
   
 ## [Training on data](training-your-chatbot.md)
 
-* [Uploading Files](sources/upload-files.md)
-* [Text / Markdown](sources/plain-text.md)
-* [URLs / Sitemaps](sources/websites.md)
-* [RSS Feeds](sources/websites.md)
+* [Uploading Files](sources/files.md)
+* [Text / Markdown](sources/text.md)
+* [URLs / Website](sources/website.md)
+* [RSS Feeds](sources/feed.md)
+* [Sitemaps](sources/Sitemap.md)
 * [Knowledge Bases](sources/knowledge-bases.md)
   * [GitHub](sources/github.md)
   * [Notion](sources/notion.md)
@@ -22,6 +23,7 @@
   * [Intercom](sources/intercom.md)
   * [ZenDesk](sources/zendesk.md)
   * [HubSpot](sources/hubspot.md)
+  * [YouTube](sources/youtube.md)
   * [Database](sources/database.md)
 
 ## [Chatbot Widget](widget/README.md)
