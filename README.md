@@ -3,9 +3,8 @@ hide-toc: true
 hide-nav: true
 ---
 
-# Corpus Documentation
-
-## On this site, you'll find everything you need to seamlessly integrate Corpus into your business and start delivering exceptional support experiences in no time.
+# Documentation
+## Learn everything you need to integrate Corpus into your website and start delivering exceptional experiences to your customers in no time.
 
 ![Corpus.Chat](./media/docs-hero.png)
 
