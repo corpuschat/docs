@@ -24,6 +24,6 @@ Please follow these steps for personalized support:
 2. **Submit Your Query:** Fill in the necessary details, describe your issue or request, and we'll be sure to follow up with you via email.
 
 
- ### Our Commitment to You
+### Our Commitment to You
 
 We aim to provide you with the best possible support experience. Whether through the AI-driven chatbot, our detailed documentation, or a personalized email response, your satisfaction and success with Corpus are our top priorities.
