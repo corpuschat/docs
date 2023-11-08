@@ -44,7 +44,7 @@
 * [Public URL](sharing/public-url.md)
 * [Custom domain](sharing/custom-domain.md)
 
-## [CRM Activity](activity/README.md)
+## [User and Analytics](activity/README.md)
 
 * [Insights](crm/insights.md)
 * [Contact list](crm/contacts.md)
