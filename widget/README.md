@@ -8,6 +8,8 @@ description: Maximizing user engagement with the Corpus Chatbot widget
 
 The Corpus Chatbot Widget stands as the most versatile and customizable point of contact between your business and its customers. It's designed to integrate seamlessly with your website, providing a robust and interactive support experience that can be finely tailored to embody your brand's ethos and aesthetic.
 
+> [Placeholder for Video Tutorial]
+
 ### Widget Composition
 
 The widget is thoughtfully segmented into three main sections, each serving a distinct purpose in the user journey. Click on each box for more information.
