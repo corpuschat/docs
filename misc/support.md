@@ -20,7 +20,7 @@ There are times when a query requires a more personalized approach or you might 
 
 Please follow these steps for personalized support:
 
-1. **Use the Contact Form:** Navigate to the integrated contact form available within the chatbot widget. This is your direct line to our support team.
+1. **Use the Contact Form:** Use the <a href="&#109;ailt&#111;&#58;&#104;&#101;&#37;6C&#108;&#37;&#54;F%40c%6Fr%&#55;0%75%73&#37;2E%6&#51;&#37;6&#56;&#97;t" onclick="Corpus('show', 'contact'); return false">chatbot widget’s integrated contact form</a>. This is your direct line to our support team.
 2. **Submit Your Query:** Fill in the necessary details, describe your issue or request, and we'll be sure to follow up with you via email.
 
 
