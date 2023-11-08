@@ -8,7 +8,7 @@
 * [Understanding Tokens](overview/understanding-tokens.md)
 * [Navigating the App](overview/navigation.md)
   
-## [Training on data](training-your-chatbot.md)
+## [Train on your data](training-your-chatbot.md)
 
 * [Uploading Files](sources/files.md)
 * [Text / Markdown](sources/text.md)
