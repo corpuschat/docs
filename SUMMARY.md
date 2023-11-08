@@ -46,9 +46,9 @@
 
 ## [USAGE & ANALYTICS](activity/README.md)
 
-* [Insights](crm/insights.md)
-* [Contact list](crm/contacts.md)
-* [Chat history](crm/chat-history.md)
+* [Insights](activity/insights.md)
+* [Contact list](activity/contacts.md)
+* [Chat history](activity/chat-history.md)
 
 
 ## Misc
