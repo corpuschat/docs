@@ -44,7 +44,7 @@
 * [Public URL](sharing/public-url.md)
 * [Custom domain](sharing/custom-domain.md)
 
-## [USAGE & ANALYTICS](activity/README.md)
+## [Usage & Analytics](activity/README.md)
 
 * [Insights](activity/insights.md)
 * [Contact list](activity/contacts.md)
