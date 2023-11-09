@@ -1,45 +1,59 @@
 # Table of contents
 
-* [Welcome](README.md)
-
 ## Overview
 
+* [What is Corpus](overview/about.md)
 * [Quick start](overview/quick-start.md)
-* [Feature list](overview/feature-list.md)
+* [Response Quality](overview/optimize-response-quality.md)
 * [Understanding Tokens](overview/understanding-tokens.md)
-* [Answer accuracy](overview/answer-accuracy.md)
-* [FAQ](overview/faq.md)
+* [Navigating the App](overview/navigation.md)
+  
+## [Train on your data](training/README.md)
 
-## Chat Widget
+* [Uploading Files](training/files.md)
+* [Text / Markdown](training/text.md)
+* [Website / URLs](training/web.md)
+  * [Sitemap](training/sitemap.md)
+  * [Websites)](training/website.md)
+  * [Wordpress](training/wordpress.md)
+  * [RSS Feeds](training/feed.md)
+* [Knowledge Bases](training/knowledge-bases.md)
+  * [GitHub](training/github.md)
+  * [HubSpot](training/hubspot.md)
+  * [Notion](training/notion.md)
+  * [Intercom](training/intercom.md)
+  * [Zensesk](training/zendesk.md)
+* [Google Drive](training/google.md)
+* [YouTube Videos](training/youtube.md)
+* [SQL Database](training/database.md)
 
+## [Chatbot Widget](widget/README.md)
+
+* [Branding / Appearance](widget/appearance.md)
 * [Home screen](widget/home-screen.md)
-* [AI Chatbot](widget/ai-chatbot.md)
+* [Chat window](widget/ai-chatbot.md)
+  * [Custom prompt](widget/custom-prompt.md)
+  * [Generating Leads](widget/lead-generation.md)
+  * [Bot peronality](widget/bot-peronality.md)
 * [Contact form](widget/contact-form.md)
+* [Localization](widget/localization.md)
+* [Javascript API](widget/api.md)
 
-## Data sources
+## [Sharing](sharing/README.md)
 
-* [Knowledge bases](sources/knowledge-bases/README.md)
-  * [Intercom](sources/knowledge-bases/intercom.md)
-  * [ZenDesk](sources/knowledge-bases/zendesk.md)
-  * [HubSpot](sources/knowledge-bases/hubspot.md)
-  * [Notion](sources/knowledge-bases/notion.md)
-* [GitHub](sources/github/README.md)
-  * [Repo](sources/github/repo.md)
-  * [Wiki](sources/github/wiki.md)
-* [Google](sources/google/README.md)
-  * [Drive](sources/google/drive.md)
-  * [Docs](sources/google/docs.md)
-  * [Sheets](sources/google/sheets.md)
-* [Websites](sources/websites/README.md)
-  * [Wordpress](sources/websites/wordpress.md)
-  * [RSS Feed](sources/websites/rss-feed.md)
-  * [Sitemap](sources/websites/sitemap.md)
-* [Other](sources/other/README.md)
-  * [Uploaded files](sources/other/uploaded-files.md)
-  * [Database](sources/other/database.md)
-  * [Plain text](sources/other/plain-text.md)
+* [Public URL](sharing/public-url.md)
+* [Custom domain](sharing/custom-domain.md)
 
-## Guides
+## [Usage & Analytics](activity/README.md)
 
-* [For sales / pre-sales](usecases/for-sales-pre-sales.md)
-* [For customer support](usecases/for-customer-support.md)
+* [Insights](activity/insights.md)
+* [Contact list](activity/contacts.md)
+* [Chat history](activity/chat-history.md)
+
+
+## Misc
+
+* [Plans & Billing](misc/billing.md)
+* [Getting support](misc/support.md)
+
+
