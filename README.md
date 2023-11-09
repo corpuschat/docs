@@ -6,11 +6,11 @@ hide-nav: true
 # Documentation
 ## Learn everything you need to integrate Corpus into your website and start delivering exceptional experiences to your customers in no time.
 
-![Corpus.Chat](./media/docs-hero.png)
+![Corpus Chat: Corpus.Chat](./media/docs-hero.png)
 
 ## Getting started
 
-Meet Corpus, the cutting-edge, AI-powered customer support chatbot, that was engineered to revolutionize your customer service operations, offering instant resolutions to over half of all customer inquiries, any time of day. 
+Meet Corpus, the cutting-edge, AI-powered customer support chatbot, that was engineered to revolutionize your customer service operations, offering instant resolutions to over half of all customer inquiries, any time of day.
 
 :::: cols=2
 

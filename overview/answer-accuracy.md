@@ -1,9 +1,3 @@
----
-title: Understanding AI-generated answers
-description: Corpus delivers AI answers on the public and private sources you trained it on.
-youtube-video: SkGmyhrA0q4
----
-
 # Understanding AI-generated answers
 
 ## Corpus delivers AI answers on the public and private sources you trained it on.

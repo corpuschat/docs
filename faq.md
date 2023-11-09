@@ -1,8 +1,3 @@
----
-title: Frequently Asked Questions
-description: Get answeres to common questions about Corpus Chatbot usage and features
----
-
 # Frequently Asked Questions
 ## Get answeres to common questions about Corpus Chatbot usage and features
 

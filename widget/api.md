@@ -1,9 +1,4 @@
----
-title: Widget Javascript API
-description: Learn how to get the most out of Corpus’ widget using its powerful Javascript API
----
-
-# Widget Javascript API
+# The Javascript API
 ## Learn how to get the most out of Corpus’ widget using its powerful Javascript API
 
 Welcome to the comprehensive guide for the Corpus Chatbot Widget API. This powerful interface empowers users with direct control over the chatbot widget using JavaScript, offering a variety of features that enhance user interaction and streamline customer engagement.
@@ -12,11 +7,7 @@ Whether you're looking to programmatically manage the visibility of your chatbot
 
 In this document, we will delve into the common functionalities provided by the API, such as showing or hiding the widget on your webpage, initiating conversations with auto-submitted prompts, and triggering the contact form display, among other capabilities. Each feature is designed to give you and your users a seamless and integrated chatbot experience, customizable to your unique business needs.
 
-[[info]]
-Througout the document, we'll use `project_xYz123` as the chatbot Id. Make sure you replace it with your Chatbot Id when copying and pasting the code.
-[[/info]]
-
-## Simple install
+## Simple installation
 To display the widget on your web application, simply copy and paste the following code snippet before the closing tag on each page where you'd like the widget to be visible to site visitors.
 
 ```html
@@ -34,6 +25,9 @@ To initialize the widget with the launcher hidden, overriding the default settin
 Corpus('load', 'project_xYz123', 'hidden');
 ```
 
+[[warning]]
+\* Replace `project_xYz123` with your Chatbot Id when copying and pasting the code above.
+[[/warning]]
 
 ---
 
@@ -55,7 +49,7 @@ or
 
 ```js
 Corpus('identify', {
-  id: "internal-id", // your user identifier 
+  id: "internal-id", // your user identifier
   name: "John Doe",
   email: "john.doe@gmail.com",
   avatar: "full url to avatar image"
@@ -68,7 +62,7 @@ Corpus('identify', {
 
 By loading the widget JavaScript, you gain access to a widget JavaScript object that responds to several methods. These methods enable you to interact with the messenger window.
 
-### Hide Widget
+### Hide widget
 
 This will hide the widget panel if it is open. It will not hide the widget launcher.
 
@@ -76,7 +70,7 @@ This will hide the widget panel if it is open. It will not hide the widget launc
 Corpus('hide');
 ```
 
-### Show Widget
+### Show widget
 
 Options: `Corpus('show' [, screen [, prompt]] )`
 
@@ -104,7 +98,7 @@ This will show the widget’s contact form.
 Corpus('show', 'contact');
 ```
 
-### Toggle Widget
+### Toggle visibility
 
 This will toggle the widget panel.
 
@@ -112,7 +106,7 @@ This will toggle the widget panel.
 Corpus('show', 'toggle');
 ```
 
-### Submit Prompt
+### Submit prompt
 
 A shortcut for Corpus('show', 'chat', 'QUESTION');.
 
@@ -122,7 +116,7 @@ This will show the widget’s chat form and auto-submit a prompt by the user.
 Corpus('prompt', 'How can I reset my password?');
 ```
 
-### Change/Set Theme
+### Set theme
 
 This method overrides your settings and lets you controls the widget light/dark theme display mode.
 

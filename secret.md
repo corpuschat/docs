@@ -1,8 +1,14 @@
+---
+hide-toc: false
+hide-nav: false
+youtube-video: SkGmyhrA0q4
+---
+
 # Documentation
 
 ## Explore our guides and examples to integrate Corpus’ Al-powered customer support chatbot for your website.
 
-![](./media/docs-hero.png)
+![Corpus Chat: ](./media/docs-hero.png)
 
 ## Getting started
 
@@ -102,7 +108,7 @@ __markdown      `sadas`
 
 ::::
 
-Code group 
+Code group
 
 :::: tabs-code-group
 
