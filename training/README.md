@@ -4,9 +4,9 @@
 Training is a fundamental process in the realm of artificial intelligence, especially when it comes to chatbots. It involves feeding the AI model with relevant data, allowing it to learn and subsequently generate accurate and contextually appropriate responses. Think of it as educating a new employee on your company's knowledge base so they can perform their role effectively.
 
 
-[[boxed float-right]]
+<div class="boxed boxed-float-right" style="border: 0 !important; padding: 0 !important;">
 ![Corpus Chat: Training sources](../media//training-sources.webp)
-[[/boxed]]
+</div>
 
 ## Custom data integration
 
@@ -15,7 +15,7 @@ Corpus takes this process a step further by giving you the ability to train your
 - **File uploads:** Easily add knowledge by uploading documents, including MS Office files, PDFs, and more.
 - **App creation:** Directly craft documents within the app, tailoring information to your needs.
 - **Web fetching:** Automatically pull data from your website or online materials for the chatbot to learn.
-- **External sources connection:** Link to a myriad of platforms such as Notion, GitHub, YouTube, Google Drive, HubSpot, Intercom, Zendesk, and SQL databases to enrich the chatbot's knowledge pool.
+- **External sources connection:** Link knowledge from to many popular platforms, including as Notion, GitHub, YouTube, Google Drive, HubSpot, Intercom, Zendesk, and even SQL databases to enrich the chatbot's knowledge pool.
 
 <div style="clear:both;"></div>
 
