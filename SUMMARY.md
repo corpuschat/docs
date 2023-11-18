@@ -49,6 +49,7 @@
 
 ## [Usage & Analytics](activity/README.md)
 
+* [Analytics Overview](activity/README.md)
 * [Insights Analytics](activity/insights.md)
 * [Contact List](activity/contacts.md)
 * [Chat History](activity/chat-history.md)
