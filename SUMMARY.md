@@ -10,7 +10,7 @@
 
 ## Training Your Chatbot
 
-* [Training on Custom Data](training/README.md)
+* [Training Overview](training/README.md)
 * [Uploading Files](training/files.md)
 * [Text / Markdown](training/text.md)
 * [Website / URLs](training/web.md)
@@ -43,7 +43,7 @@
 
 ## Sharing Your Chatbot
 
-* [Sharing Your Chatbot](sharing/README.md)
+* [Sharing Overview](sharing/README.md)
 * [Public Chatbot URL](sharing/public-url.md)
 * [Custom Domain](sharing/custom-domain.md)
 
