@@ -10,7 +10,7 @@
 
 ## [Train on your data](training/README.md)
 
-* [Introduction](training/README.md)
+* [Training Overview](training/README.md)
 * [Uploading Files](training/files.md)
 * [Text / Markdown](training/text.md)
 * [Website / URLs](training/web.md)
@@ -30,6 +30,7 @@
 
 ## [Chatbot Widget](widget/README.md)
 
+* [Overview](widget/README.md)
 * [Branding / Appearance](widget/appearance.md)
 * [Home Screen](widget/home-screen.md)
 * [Chat Window](widget/ai-chatbot.md)
@@ -42,6 +43,7 @@
 
 ## [Sharing](sharing/README.md)
 
+* [Sharing Overview](sharing/READMEurl.md)
 * [Public URL](sharing/public-url.md)
 * [Custom Domain](sharing/custom-domain.md)
 
