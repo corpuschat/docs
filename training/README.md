@@ -6,7 +6,7 @@ Training is a fundamental process in the realm of artificial intelligence, espec
 
 <div class="boxed boxed-float-right" style="border: 0 !important; padding: 0 !important;">
 
-  ![Corpus Chat: Training sources](../media//training-sources.webp)
+![Corpus Chat: Training sources](../media//training-sources.webp)
 
 </div>
 
