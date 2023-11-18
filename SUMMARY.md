@@ -8,7 +8,7 @@
 * [Understanding Tokens](overview/understanding-tokens.md)
 * [Navigating the App](overview/navigation.md)
 
-## [Train on your data](training/README.md)
+## Train on your data
 
 * [Training Overview](training/README.md)
 * [Uploading Files](training/files.md)
@@ -28,9 +28,9 @@
 * [YouTube Videos](training/youtube.md)
 * [SQL Database](training/database.md)
 
-## [Chatbot Widget](widget/README.md)
+## Chatbot Widget
 
-* [Overview](widget/README.md)
+* [Widget Overview](widget/README.md)
 * [Branding / Appearance](widget/appearance.md)
 * [Home Screen](widget/home-screen.md)
 * [Chat Window](widget/ai-chatbot.md)
@@ -41,13 +41,13 @@
 * [Localization](widget/localization.md)
 * [Javascript API](widget/api.md)
 
-## [Sharing](sharing/README.md)
+## Sharing
 
-* [Sharing Overview](sharing/READMEurl.md)
+* [Sharing Overview](sharing/README.md)
 * [Public URL](sharing/public-url.md)
 * [Custom Domain](sharing/custom-domain.md)
 
-## [Usage & Analytics](activity/README.md)
+## Usage & Analytics
 
 * [Analytics Overview](activity/README.md)
 * [Insights Analytics](activity/insights.md)
