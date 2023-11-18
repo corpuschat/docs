@@ -8,9 +8,9 @@
 * [Understanding Tokens](overview/understanding-tokens.md)
 * [Navigating the App](overview/navigation.md)
 
-## Train on your data
+## Training Your Chatbot
 
-* [Training Overview](training/README.md)
+* [Training on Custom Data](training/README.md)
 * [Uploading Files](training/files.md)
 * [Text / Markdown](training/text.md)
 * [Website / URLs](training/web.md)
@@ -41,10 +41,10 @@
 * [Localization](widget/localization.md)
 * [Javascript API](widget/api.md)
 
-## Sharing
+## Sharing Your Chatbot
 
-* [Sharing Overview](sharing/README.md)
-* [Public URL](sharing/public-url.md)
+* [Sharing Your Chatbot](sharing/README.md)
+* [Public Chatbot URL](sharing/public-url.md)
 * [Custom Domain](sharing/custom-domain.md)
 
 ## Usage & Analytics
