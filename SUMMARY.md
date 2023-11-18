@@ -10,6 +10,7 @@
 
 ## [Train on your data](training/README.md)
 
+* [Introduction](training/README.md)
 * [Uploading Files](training/files.md)
 * [Text / Markdown](training/text.md)
 * [Website / URLs](training/web.md)
