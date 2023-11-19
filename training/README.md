@@ -4,9 +4,11 @@
 Training is a fundamental process in the realm of artificial intelligence, especially when it comes to chatbots. It involves feeding the AI model with relevant data, allowing it to learn and subsequently generate accurate and contextually appropriate responses. Think of it as educating a new employee on your company's knowledge base so they can perform their role effectively.
 
 
-<div class="boxed boxed-float-right" style="border: 0 !important; padding: 0 !important;">
-![Corpus Chat: Training sources](../media//training-sources.webp)
-</div>
+<style>.boxed-float-right { border: 0 !important; padding: 0 !important; } </style>
+
+[[boxed float-right]]
+![Corpus Chat: Training sources](../media/training-sources.webp)
+[[/boxed]]
 
 ## Custom data integration
 
