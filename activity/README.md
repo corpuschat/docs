@@ -8,21 +8,30 @@ Corpus' activity pages are a window into the world of your users, offering a wea
 - **Usage statistics:** Delve into data that shows how often and in what ways users interact with your chatbot.
 - **Interaction summaries:** Access summaries of the most commonly asked questions, providing insight into user needs and interests.
 
-> [Insert Screenshot: Frequently Asked Questions Summary]
+:::: cols=2
+![Corpus Chat: Insights prompts](../media/insights-prompts.webp)
+![Corpus Chat: Insights geo](../media/insights-geo.webp)
+::::
 
 ## Know your audience
 
 - **User information:** View detailed profiles of your users, including their geo-location and chat history. Identified users will display their name and email, while anonymity is preserved for others.
 - **Crm integration:** Seamlessly export your contact list for use in your CRM or email marketing tools, enhancing your outreach strategies.
 
-> [Insert Screenshot: Exporting Contact Information]
+![Corpus Chat: Contact list](../media//contacts.webp)
 
 ## Access chat history
 
 - **Conversation review:** Explore the dialogues between your chatbot and users, complete with feedback through up or down votes on the chatbot's responses.
 - **Content creation:** Identify gaps in your chatbot's knowledge and create new documents to address frequently asked questions directly from the chat session interface.
 
-> [Insert Screenshot: Creating Documents from Chat Sessions]
+![Corpus Chat: Chat history](../media/history.webp)
+
+## Navigating the insights page
+
+- **Usage statistics:** View detailed statistics to understand the volume and patterns of usage over time.
+- **Interaction summaries:** Review summaries of user interactions to see what topics are trending and where your chatbot excels or needs improvement.
+
 
 ## Summary
 
