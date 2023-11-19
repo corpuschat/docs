@@ -9,7 +9,7 @@ The Insights Analytics Page in Corpus provides a crucial analytical perspective 
 - **Answer evaluation:** Assess the usefulness of the chatbot's responses through user feedback, allowing you to continuously refine and improve the AI's performance.
 - **Frequently asked questions:** Gain insight into the most common inquiries posed to your chatbot. This knowledge is invaluable for optimizing the chatbot's knowledge base and training materials.
 
-![Corpus Chat: Insights stats](../media//insights-stats.webp)
+![Corpus Chat: Insights stats](../media/insights-stats.webp)
 
 ## Navigating the insights page
 
@@ -17,11 +17,10 @@ The Insights Analytics Page in Corpus provides a crucial analytical perspective 
 - **Interaction summaries:** Review summaries of user interactions to see what topics are trending and where your chatbot excels or needs improvement.
 
 :::: cols=2
-![Corpus Chat: Insights prompts](../media//insights-prompts.webp)
-![Corpus Chat: Insights geo](../media//insights-geo.webp)
+![Corpus Chat: Insights prompts](../media/insights-prompts.webp)
+![Corpus Chat: Insights geo](../media/insights-geo.webp)
 ::::
 
-<div></div>
 ## Summary
 
 The Insights Analytics Page is a powerful tool in your Corpus toolkit, providing a data-driven approach to understanding and enhancing your chatbot's interactions with users. By analyzing this data, you can make informed decisions to tailor your chatbot to better meet the needs of your audience, improving satisfaction and engagement.
