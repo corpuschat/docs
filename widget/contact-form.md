@@ -23,7 +23,7 @@ The Corpus integrated contact form bridges the gap between AI automation and the
 - **Direct communication:** Users can escalate issues or seek personalized assistance without leaving the chat interface.
 - **Email integration:** Submitted forms are forwarded to an email address of your choice, which can be configured to link with your existing support ticketing system.
 
-![Corpus Chat: contact form](../media//widget-contact.webp)
+![Corpus Chat: contact form](../media/widget-contact.webp)
 
 ## Enhanced functionality
 

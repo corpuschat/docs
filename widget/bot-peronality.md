@@ -7,7 +7,7 @@ The personality of your chatbot sets the tone for interactions with your users a
 
 Corpus offers four distinct bot personality options, each with its unique strengths and intended use cases:
 
-![Corpus Chat: personality](../media//personality.webp)
+![Corpus Chat: personality](../media/personality.webp)
 
 ### Website assistant
 

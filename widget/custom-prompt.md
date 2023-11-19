@@ -11,7 +11,7 @@ Example uses cases for custom prompt instructions are:
 - **Use of emojis:** Instruct the chatbot to incorporate emojis in its responses to add a friendly and relatable touch to the conversation.
 - **Adopt a light-hearted tone:** Command the chatbot to ‘be funny’ or use a light-hearted tone to create a more enjoyable and memorable user experience.
 
-![Corpus Chat: custom-prompt](../media//custom-prompt.webp)
+![Corpus Chat: custom-prompt](../media/custom-prompt.webp)
 
 ## Implementing custom prompt instructions
 

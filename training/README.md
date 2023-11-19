@@ -29,7 +29,7 @@ Activating your chatbot's learning is as simple as adding your selected content 
 2. **Training initiation:** Click on the "train" button to start the process.
 3. **Duration:** Training duration varies, ranging from a swift 30 seconds to a few minutes, depending on the volume and complexity of the documents involved.
 
-![Corpus Chat: Select documents for training](../media//training.webp)
+![Corpus Chat: Select documents for training](../media/training.webp)
 
 ## Post-training capabilities
 

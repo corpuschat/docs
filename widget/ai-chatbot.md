@@ -13,7 +13,7 @@ To foster trust and ensuring a high standard of interaction with users, each res
 
 The integrated voting system further reinforces the chatbot's reliability, as user feedback on responses directly informs the continuous improvement of the chatbot's accuracy and relevance. This symbiotic mechanism of sourcing and user rating underlines the commitment of Corpus to deliver credible, high-quality conversational experiences.
 
-![Corpus Chat: chat](../media//widget-chat.webp)
+![Corpus Chat: chat](../media/widget-chat.webp)
 
 ## Summary
 

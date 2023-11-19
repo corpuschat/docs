@@ -15,7 +15,7 @@ To enhance security and control over where your chatbot can be accessed, Corpus 
 
 Every Corpus chatbot is assigned a public URL, which is active by default. This URL follows the format `project-id.corpuschat.app` and serves as the simplest way to share your chatbot. Users can visit this link to interact with your chatbot immediately.
 
-![Corpus Chat: Public URL](../media//public-url.webp)
+![Corpus Chat: Public URL](../media/public-url.webp)
 
 ### Disabling public pages
 

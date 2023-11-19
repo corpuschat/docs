@@ -11,7 +11,7 @@ The lead generation mechanism is intricately woven into the chatbot's conversati
 - **Seamless identification:** For users already known to the system, the chatbot smartly bypasses the data collection step, streamlining their experience.
 - **Prompting unknown users:** New users are gently prompted to provide their name and email after their first query, with a focus on maintaining a comfortable and pressure-free environment.
 
-![Corpus Chat: lead-capture](../media//lead-capture.webp)
+![Corpus Chat: lead-capture](../media/lead-capture.webp)
 
 ## User experience considerations
 
@@ -27,7 +27,7 @@ Once captured, leads are accessible for further action and analysis:
 - **Contacts screen:** View the list of leads and access their contact information conveniently from the Contacts screen.
 - **Interaction review:** Dive into the Chat Session History screen to study the full interaction history for deeper insights and follow-up strategies.
 
-![Corpus Chat: contacts](../media//contacts.webp)
+![Corpus Chat: contacts](../media/contacts.webp)
 
 ## Summary
 

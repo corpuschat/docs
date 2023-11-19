@@ -7,7 +7,7 @@ The home screen of the Corpus chatbot widget serves as the virtual front door to
 
 Leverage personalized greetings to establish an immediate connection with users using **Personalization Tokens**. Incorporate `{firstname|FALLBACK}` within your greeting message to dynamically insert the user's name, provided they are identified, which adds a personal touch to the welcome message.
 
-![Corpus Chat: home](../media//widget-home.webp)
+![Corpus Chat: home](../media/widget-home.webp)
 
 ## Pre-defined prompt
 

@@ -24,7 +24,7 @@ Corpus ensures that languages written from right to left, such as Arabic and Heb
 - **RTL adaptation:** The chatbot interface automatically adjusts for RTL languages.
 - **Cultural inclusivity:** Engage with customers in a way that is respectful of their linguistic practices.
 
-![Corpus Chat: rtl](../media//rtl.webp)
+![Corpus Chat: rtl](../media/rtl.webp)
 
 ## Language-specific chatbots
 
@@ -43,7 +43,7 @@ To customize the localization of your chatbot:
 
 By following these steps, you can ensure that your chatbot communicates effectively with users in their native language, providing a seamless and localized user experience.
 
-![Corpus Chat: localization](../media//localization.webp)
+![Corpus Chat: localization](../media/localization.webp)
 
 ## Summary
 

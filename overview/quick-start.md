@@ -23,13 +23,13 @@ After you've signed up and are ready to create your first chatbot, the first tas
 
 Make sure to upload or link all the relevant data your chatbot will need to assist your customers effectively.
 
-![Corpus Chat: Drag files for training](../media//training-files.webp)
+![Corpus Chat: Drag files for training](../media/training-files.webp)
 
 ## Training your chatbot
 
 Once your knowledge base is connected and documents are added to Corpus, the next vital step is to train your chatbot on this data. This process is essential as it equips your chatbot with the ability to generate answers that are accurate, relevant, and tailored to your specific business needs.
 
-![Corpus Chat: Drag files for training](../media//training.webp)
+![Corpus Chat: Drag files for training](../media/training.webp)
 
 ## Customizing your chat widget
 
@@ -47,7 +47,7 @@ Adjust these settings to ensure your chatbot feels like an integral part of your
 In addition to personalizing the look and feel of your chat widget, Corpus provides powerful lead collection capabilities. The system can identify potential leads based on user interactions and inquiries, ensuring no opportunities slip through the cracks.
 [[/tip]]
 
-![Corpus Chat: Widget customization options](../media//widget-hero.webp)
+![Corpus Chat: Widget customization options](../media/widget-hero.webp)
 
 ## Sharing your chatbot
 

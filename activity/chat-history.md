@@ -9,7 +9,7 @@ The Chat History Page is an invaluable feature of Corpus that offers a detailed 
 - **Response feedback:** Monitor the feedback on the chatbot’s answers with the up or down voting system, which helps gauge the accuracy and helpfulness of the information provided.
 - **Direct document creation:** When you identify frequently asked questions or topics that require better clarity, you can directly create and link new documents to these queries from the Chat History Page.
 
-![Corpus Chat: Chat history](../media//history.webp)
+![Corpus Chat: Chat history](../media/history.webp)
 
 ## Summary
 

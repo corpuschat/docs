@@ -18,7 +18,7 @@ Corpus' activity pages are a window into the world of your users, offering a wea
 - **User information:** View detailed profiles of your users, including their geo-location and chat history. Identified users will display their name and email, while anonymity is preserved for others.
 - **Crm integration:** Seamlessly export your contact list for use in your CRM or email marketing tools, enhancing your outreach strategies.
 
-![Corpus Chat: Contact list](../media//contacts.webp)
+![Corpus Chat: Contact list](../media/contacts.webp)
 
 ## Access chat history
 

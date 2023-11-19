@@ -15,7 +15,7 @@ With Corpus, you can fine-tune various elements of your chatbot to mirror your b
 - **Avatar Selection:** Upload a custom avatar that represents your brand, whether it's a logo or a mascot.
 - **Language Settings:** Set the language of the chatbot to align with your primary audience, ensuring clear communication.
 
-![Corpus Chat: appearance](../media//appearance.webp)
+![Corpus Chat: appearance](../media/appearance.webp)
 
 ## Launcher customization
 
@@ -26,7 +26,7 @@ The launcher of your chatbot is the first point of interaction between your cust
 - **Prompt Suggestions:** Craft prompt suggestions that not only engage users but also echo your brand's tone and messaging. You also have full control on delay time and frequency in which to display the prompt suggestions.
 
 
-![Corpus Chat: launcher](../media//launcher.webp)
+![Corpus Chat: launcher](../media/launcher.webp)
 
 ## Summary
 

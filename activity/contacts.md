@@ -11,7 +11,7 @@ Corpus' Contacts Page serves as the central hub for managing and understanding y
 - **Location insights:** Understand where your users are interacting from with integrated geolocation data, helping to tailor your services to specific regions.
 - **Chat review:** Dive into the history of conversations each user has had with your chatbot, gaining context for their questions and your chatbot's responses.
 
-![Corpus Chat: Contact list](../media//contacts.webp)
+![Corpus Chat: Contact list](../media/contacts.webp)
 
 ## Summary
 

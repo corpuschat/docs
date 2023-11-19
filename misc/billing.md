@@ -20,7 +20,7 @@ Should you decide to upgrade your plan, payments will be prorated, ensuring you 
 
 Your monthly token usage is updated in real-time and is available on the billing page of the Corpus web application.
 
-![Corpus Chat: Token usage](../media//token-usage.webp)
+![Corpus Chat: Token usage](../media/token-usage.webp)
 
 ## Stripe customer portal
 

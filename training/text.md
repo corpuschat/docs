@@ -9,7 +9,7 @@
 - Using the window that appears, add your content to the chatbot (Markdown is supported).
 - To have the chatbot link to a URL when composing an answer, simply supply the target URL.
 
-![Corpus Chat: Create document](../media//training-text.webp)
+![Corpus Chat: Create document](../media/training-text.webp)
 
 [[tip Fetch text from a URL]]
 You can also add text from a URL by typing in the URL at the document editor and clicking on the <kbd>Fetch Page</kbd> button.
@@ -26,7 +26,7 @@ You can also add text from a URL by typing in the URL at the document editor and
 
 Once training is complete, a notification will confirm that your chatbot is ready to use the new data.
 
-![Corpus Chat: Select documents for training](../media//training.webp)
+![Corpus Chat: Select documents for training](../media/training.webp)
 
 
 ## Summary

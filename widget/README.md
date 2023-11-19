@@ -51,7 +51,7 @@ Tailoring the widget to reflect your brand is straightforward and comprehensive:
 - **Language and directionality:** Full support for multiple languages and right-to-left (RTL) text ensures inclusivity for a global audience.
 - **Launcher control:** Dictate where and when the widget launcher appears on your site, as well as its color and behavior.
 
-![Corpus Chat: Branding](../media//branding.webp)
+![Corpus Chat: Branding](../media/branding.webp)
 
 ## Device optimization
 
