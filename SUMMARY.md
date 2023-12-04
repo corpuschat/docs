@@ -39,7 +39,7 @@
  * [Generating Leads](widget/lead-generation.md)
  * [Bot Peronality](widget/bot-peronality.md)
  * [Contact Form](widget/contact-form.md)
-* [Add Widget to Your Website](widget/installation.md)
+* [Add Widget to Your Website](widget/add-to-website.md)
   * [WordPress](widget/add-to-wordpress.md)
   * [Shopify](widget/add-to-shopify.md)
   * [Framer](widget/add-to-framer.md)
