@@ -15,7 +15,7 @@ Corpus('load', 'XXXXXXXXXXXXXXXXXXXXX');
 </script>
 ```
 
-Where `XXXXXXXXXXXXXXXXXXXXX` is your Chatbot ID.
+\* Replace `XXXXXXXXXXXXXXXXXXXXX` with your Chatbot ID.
 
 ## Installing on other platforms
 
