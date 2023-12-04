@@ -5,12 +5,12 @@ Adding the Corpus chatbot widget to your Wix website can significantly enhance u
 
 ## Instructions 
 
-### 1: Obtain the JavaScript snippet from Corpus
+### 1: Locate the Widget’s JavaScript snippet
 
-- **Log Into Corpus:** Access your account on the Corpus platform.
-- **Select Your Chatbot:** Choose the chatbot you wish to embed from your list of available chatbots.
-- **Navigate to Widget Installation:** Go to "Widget → Install" in your Corpus dashboard.
-- **Copy the JavaScript Snippet:** Find the JavaScript snippet provided for your chatbot and copy it.
+- **Log Into Corpus:** <a href="https://app.corpus.chat" target="app">Log into your Corpus account</a>.
+- **Select Your Chatbot:** Choose the chatbot you wish to embed from your list of available chatbots (if you have more than one).
+- **Navigate to Widget Installation:** Go to "Widget → Install" in the Corpus dashboard.
+- **Copy the JavaScript Snippet:** Locate the JavaScript snippet at the top of that page, and copy it.
 
 > [Placeholder for Screenshot: Corpus Widget Installation Page]
 
