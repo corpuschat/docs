@@ -3,21 +3,21 @@
 
 Adding the Corpus chatbot widget to your Wix website can significantly enhance user engagement and provide instant support to your visitors. This guide will walk you through the process of embedding the Corpus widget into your Wix site using a JavaScript snippet, as per Wix's guidelines for embedding custom code.
 
-## Instructions 
+## Instructions
 
 ### 1: Locate the Widget’s JavaScript snippet
 
-- **Log Into Corpus:** <a href="https://app.corpus.chat" target="app">Log into your Corpus account</a>.
-- **Select Your Chatbot:** Choose the chatbot you wish to embed from your list of available chatbots (if you have more than one).
-- **Navigate to Widget Installation:** Go to "Widget → Install" in the Corpus dashboard.
-- **Copy the JavaScript Snippet:** Locate the JavaScript snippet at the top of that page, and copy it.
+- **Log into Corpus:** <a href="https://app.corpus.chat" target="app">Log into your Corpus account</a>.
+- **Select your chatbot:** Choose the chatbot you wish to embed from your list of available chatbots (if you have more than one).
+- **Navigate to widget installation:** Go to "Widget → Install" in the Corpus dashboard.
+- **Copy the JavaScript snippet:** Locate the JavaScript snippet at the top of that page, and copy it.
 
 > [Placeholder for Screenshot: Corpus Widget Installation Page]
 
 ### 2: Add the snippet to your Wix website
 
-- **Access Your Wix Editor:** Log into your Wix account and open the website editor for the site where you want to embed the chatbot.
-- **Adding Custom Code to Wix:**
+- **Access your Wix editor:** Log into your Wix account and open the website editor for the site where you want to embed the chatbot.
+- **Adding custom code to Wix:**
     - In your Wix Editor, click on 'Add' on the left side of the editor.
     - Scroll down and select 'More'.
     - Click on 'HTML iframe' or 'Custom Embeds', then select 'Embed a Widget'.
@@ -27,7 +27,7 @@ Adding the Corpus chatbot widget to your Wix website can significantly enhance u
     - Click 'Apply' to save your changes.
 
 
-[![Wix HTML Settings Window](../media/add-to-wix.webp)](https://support.wix.com/en/article/embedding-custom-code-on-your-site)
+[![Wix HTML Settings Window](../media/add-to-Wix.webp)](https://support.Wix.com/en/article/embedding-custom-code-on-your-site)
 
 ## Summary
 
