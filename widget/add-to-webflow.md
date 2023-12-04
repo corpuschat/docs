@@ -21,7 +21,8 @@ Adding the Corpus chatbot widget to your Webflow website enhances user engagemen
 - **Paste in head code:** Scroll to the 'Head Code' section and paste the copied JavaScript snippet from Corpus here. This will ensure the chatbot loads on every page of your site.
 - **Save and publish:** After pasting the code, save the changes and publish your site to apply the updates.
 
-[![Pasting Code in Webflow's Head Code Section](../media/add-to-webflow.webp)](https://university.webflow.com/lesson/custom-code-in-the-head-and-body-tags?topics=site-settings)
+<a href="https://university.webflow.com/lesson/custom-code-in-the-head-and-body-tags?topics=site-settings" target="webflow">See full instructions on Webflow University ›</a>
+
 
 ## Summary
 
