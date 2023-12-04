@@ -29,16 +29,16 @@ Corpus('load', 'XXXXXXXXXXXXXXXXXXXXX', 'hidden');
 ```
 
 [[warning]]
-\* Replace `XXXXXXXXXXXXXXXXXXXXX` with your Chatbot ID when copying and pasting the code above.
+\* Replace `XXXXXXXXXXXXXXXXXXXXX` in the code above with your Chatbot ID.
 [[/warning]]
 
----
 To initialize the widget with the launcher hidden, overriding the default settings, use:
 
 ```js
 Corpus('load', 'XXXXXXXXXXXXXXXXXXXXX', 'hidden');
 ```
 
+---
 
 ## Identify users
 
