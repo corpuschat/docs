@@ -3,7 +3,7 @@
 
 Integrating the Corpus chatbot widget into your Framer website can significantly enhance user interaction and support. This guide provides detailed instructions on how to embed the Corpus widget using a JavaScript snippet, based on the guidelines from Framer's custom code documentation.
 
-## 1. Retrieve the JavaScript Snippet from Corpus
+## 1. Retrieve the JavaScript snippet from Corpus
 
 - **Log into Corpus:** Access your account on the Corpus platform.
 - **Select Your Chatbot:** Choose the specific chatbot you want to embed from your list of chatbots.
@@ -12,7 +12,7 @@ Integrating the Corpus chatbot widget into your Framer website can significantly
 
 > [Placeholder for Screenshot: Corpus Widget Installation Page]
 
-## 2: Adding the Snippet to your Framer website
+## 2: Add the snippet to your Framer website
 
 - **Access Your Framer Project:** Log into your Framer account and open the project where you want the chatbot to appear.
 - **Inserting Custom Code:** Scroll down to the 'Custom Code' section and paste the copied JavaScript snippet from Corpus.
