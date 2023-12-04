@@ -19,6 +19,6 @@ Integrating the Corpus chatbot widget into your Framer website can significantly
 
 > [Placeholder for Screenshot: Framer's Code Component Interface]
 
-### Summary
+## Summary
 
 By embedding the Corpus chatbot widget into your Framer website, you provide visitors with an interactive and supportive experience, enhancing engagement and support. The process is straightforward, and with the power of Framer's customization capabilities, you can ensure that the chatbot seamlessly integrates with the look and feel of your site.
