@@ -3,9 +3,9 @@
 
 Incorporating the Corpus chatbot widget into your WordPress site is made effortless with the official Corpus WordPress plugin. This guide will walk you through the process of installing and configuring the plugin to seamlessly integrate your Corpus chatbot into your WordPress website.
 
-## Download and install the Corpus WordPress plugin
+## Install the Corpus WordPress plugin
 
-- **Download the plugin:** Begin by downloading the official Corpus WordPress plugin from [THIS LINK].
+- **Download the plugin:** Begin by downloading the official Corpus WordPress plugin using [this link](https://corpus.gocdn.io/corpus-chatbot-widget.zip).
 - **Access your WordPress dashboard:** Log into your WordPress admin panel.
 - **Install the plugin:**
     - Navigate to 'Plugins' and click on 'Add New'.
