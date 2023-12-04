@@ -37,6 +37,12 @@ Where `XXXXXXXXXXXXXXXXXXXXX` is your Chatbot ID.
 <p style="margin:5px 0 10px">Sync inventory and help shoppers track their orders.</p>
 [[/card]]
 
+(/widget/add-to-webflow.md)[[card]]
+<img class="dark-invert" src="../../media/webflow.svg" alt="webflow" style="height:32px;margin:8px 0 25px;opacity:.8">
+
+#### Webflow
+<p style="margin:5px 0 10px">Responsive websites with the power of code.</p>
+[[/card]]
 
 (/widget/add-to-framer.md)[[card]]
 <img class="dark-invert" src="../../media/framer.svg" alt="framer" style="height:40px;margin:5px 0 20px;opacity:.8">
@@ -45,25 +51,17 @@ Where `XXXXXXXXXXXXXXXXXXXXX` is your Chatbot ID.
 <p style="margin:5px 0 10px">Where teams design and publish stunning sites.</p>
 [[/card]]
 
-
-(/widget/add-to-webflow.md)[[card]]
-<img class="dark-invert" src="../../media/webflow.svg" alt="webflow" style="height:32px;margin:8px 0 25px;opacity:.8">
-
-#### Webflow
-<p style="margin:5px 0 10px">Responsive websites with the power of code.</p>
-[[/card]]
-
-(/widget/add-to-squarespace.md)[[card]]
-<img class="dark-invert" src="../../media/squarespace.svg" alt="squarespace" style="height:32px;margin:8px 0 25px;opacity:.8">
-
-#### Squarespace
-<p style="margin:5px 0 10px">Create a website or store with an all-in-one solution.</p>
-[[/card]]
-
 (/widget/add-to-wix.md)[[card]]
 <img class="dark-invert" src="../../media/wix.svg" alt="wix" style="height:24px;margin:16px 0 25px;opacity:.8">
+
 #### Wix
 <p style="margin:5px 0 10px">An intuitive website builder and powerful SEO tools</p>
 [[/card]]
 
+(/widget/add-to-squarespace.md)[[card]]
+<img class="dark-invert" src="../../media/squarespace.svg" alt="squarespace" style="height:32px;margin:11px 0 21px;opacity:.8">
+
+#### Squarespace
+<p style="margin:5px 0 10px">Create a website or store with an all-in-one solution.</p>
+[[/card]]
 ::::
