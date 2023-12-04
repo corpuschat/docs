@@ -1,4 +1,4 @@
-# Add the widget to your Squarespace.md website
+# Add the widget to your Squarespace website
 ## Seamlessly integratings AI-powered chat support on your website
 
 Embedding the Corpus chatbot widget into your Squarespace website can significantly enhance user engagement by providing interactive support. This guide will walk you through the process of adding the Corpus widget to your Squarespace site using a JavaScript snippet. Please note that this option may not be available on all Squarespace plans.
