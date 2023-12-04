@@ -1,4 +1,4 @@
-# Add the Corpus widget to your Framer website
+# Add the widget to your Framer website
 ## Effortlessly embedding AI-powered chat support on your website
 
 Adding the Corpus chatbot widget to your Wix website can significantly enhance user engagement and provide instant support to your visitors. This guide will walk you through the process of embedding the Corpus widget into your Wix site using a JavaScript snippet, as per Wix's guidelines for embedding custom code.
