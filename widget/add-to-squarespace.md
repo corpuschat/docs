@@ -3,7 +3,7 @@
 
 Embedding the Corpus chatbot widget into your Squarespace website can significantly enhance user engagement by providing interactive support. This guide will walk you through the process of adding the Corpus widget to your Squarespace site using a JavaScript snippet. Please note that this option may not be available on all Squarespace plans.
 
-## 1: Retrieving the JavaScript Snippet from Corpus
+## 1: Retriev the JavaScript Snippet from Corpus
 
 - **Log Into Your Corpus Account:** Access your Corpus account to begin.
 - **Select Your Chatbot:** Choose the chatbot you wish to embed from your list of available chatbots.
@@ -12,7 +12,7 @@ Embedding the Corpus chatbot widget into your Squarespace website can significan
 
 > [Placeholder for Screenshot: Corpus Widget Installation Page]
 
-## 2: Embedding the Snippet in Squarespace
+## 2: Embed the Snippet in Squarespace
 
 - **Access Your Squarespace Dashboard:** Log into your Squarespace account and select the site where you want to add the chatbot.
 - **Adding Custom Code to Squarespace:**
