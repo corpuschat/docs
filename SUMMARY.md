@@ -40,7 +40,12 @@
 * [Contact Form](widget/contact-form.md)
 * [Localization](widget/localization.md)
 * [Javascript API](widget/api.md)
-
+* [Add Widget to Your Website](widget/installation.md)
+  * [Wordpress Plugin](widget/add-to-wordpress.md)
+  * [Shipify App](widget/add-to-shopify.md)
+  * [Webflow](widget/add-to-webflow.md)
+  * [Wix](widget/add-to-wix.md)
+  
 ## Sharing Your Chatbot
 
 * [Sharing Overview](sharing/README.md)
