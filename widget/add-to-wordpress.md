@@ -15,7 +15,7 @@ Incorporating the Corpus chatbot widget into your WordPress site is made effortl
 
 > [Placeholder for Screenshot: Activating Corpus Plugin]
 
-## Configure the Plugin
+## Configure the plugin
 
 - **Open Plugin Settings:** In your WordPress dashboard, go to the settings page of the Corpus plugin.
 - **Copy Chatbot ID:**
@@ -28,6 +28,6 @@ Incorporating the Corpus chatbot widget into your WordPress site is made effortl
 
 > [Placeholder for Screenshot: Pasting Chatbot ID in WordPress]
 
-### Summary
+## Summary
 
 By following these simple steps, you can easily integrate the Corpus chatbot widget into your WordPress website. This integration will enhance your site's functionality, providing your visitors with an interactive and supportive experience, and ensuring seamless user engagement through the Corpus AI chat support.
