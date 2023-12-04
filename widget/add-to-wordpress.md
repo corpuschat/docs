@@ -18,10 +18,10 @@ Incorporating the Corpus chatbot widget into your WordPress site is made effortl
 ## Configure the plugin
 
 - **Open Plugin Settings:** In your WordPress dashboard, go to the settings page of the Corpus plugin.
-- **Copy Chatbot ID:**
+- **Get your Corpus Chatbot ID:**
     - In a new tab, log into your Corpus account.
     - Select your chatbot and copy the URL from the address bar.
-- **Paste Chatbot ID in WordPress:**
+- **Paste your Chatbot ID or URL in WordPress:**
     - Return to the WordPress admin site.
     - Paste the URL into the "Corpus Chatbot ID" field in the plugin settings.
     - Save your changes to apply the chatbot to your site.
