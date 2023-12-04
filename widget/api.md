@@ -9,6 +9,37 @@ In this document, we will delve into the common functionalities provided by the 
 
 Once you've [installed the Widget](./installation/README.md), the following methods are available:
 
+## Installation
+
+To display the widget on your web application, simply copy and paste the following code snippet before the closing tag on each page where you'd like the widget to be visible to site visitors.
+
+```html
+<script>
+!function(n,c){var t=n.Corpus||function(){var n=arguments;try{t[n[0]](n)}catch(n){}};t.i=!1,t.js=function(n,t){var o=c.createElement("script"),n=(o.type="text/javascript",o.async=!0,o.src=n,c.getElementsByTagName("script")[0]);n.parentNode.insertBefore(o,n),o.onload=t||function(){}},t.load=function(n){t.id=n[1],t.i||t.js("https://corpus.gocdn.io/launcher.js?id="+n[1],function(){t.i=!0})},window.Corpus=t}(window,document);
+
+// initialize
+Corpus('load', 'XXXXXXXXXXXXXXXXXXXXX');
+</script>
+```
+
+To initialize the widget with the launcher hidden, overriding the default settings, use:
+
+```js
+Corpus('load', 'XXXXXXXXXXXXXXXXXXXXX', 'hidden');
+```
+
+[[warning]]
+\* Replace `XXXXXXXXXXXXXXXXXXXXX` with your Chatbot ID when copying and pasting the code above.
+[[/warning]]
+
+---
+To initialize the widget with the launcher hidden, overriding the default settings, use:
+
+```js
+Corpus('load', 'XXXXXXXXXXXXXXXXXXXXX', 'hidden');
+```
+
+
 ## Identify users
 
 Identify the active user’s and assign your internal user’s id, name, email, and avatar, if known (all fields are optional).
