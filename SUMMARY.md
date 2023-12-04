@@ -42,9 +42,10 @@
 * [Add Widget to Your Website](widget/installation.md)
   * [WordPress](widget/add-to-wordpress.md)
   * [Shopify](widget/add-to-shopify.md)
-  * [Framer](widget/add-to-framer.md)
   * [Webflow](widget/add-to-webflow.md)
+  * [Framer](widget/add-to-framer.md)
   * [Wix](widget/add-to-wix.md)
+  * [Squarespace](widget/add-to-squarespace.md)
 * [Localization](widget/localization.md)
 * [Javascript API](widget/api.md)
   
