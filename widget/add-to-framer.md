@@ -1,4 +1,4 @@
-# Add the Corpus widget to your Framer website
+# Add the widget to your Framer website
 ## A guide to enhancing your site with AI-powered chat support
 
 Integrating the Corpus chatbot widget into your Framer website can significantly enhance user interaction and support. This guide provides detailed instructions on how to embed the Corpus widget using a JavaScript snippet, based on the guidelines from Framer's custom code documentation.
