@@ -1,4 +1,4 @@
-# Add the Corpus widget to your Webflow website
+# Add the widget to your Webflow website
 ## Integrating AI-powerd chat support with custom code
 
 Adding the Corpus chatbot widget to your Webflow website enhances user engagement and provides seamless support. This guide will demonstrate how to embed the Corpus widget into your Webflow site using the 'Custom Code' feature in the 'Site Settings', focusing on adding the code to the 'Head Code' section.
