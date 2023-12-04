@@ -54,6 +54,14 @@
 * [Public Chatbot URL](sharing/public-url.md)
 * [Custom Domain](sharing/custom-domain.md)
 
+## Integrations
+
+* [Integrations Overview](integrations/README.md)
+* [Slack](integrations/slack.md)
+* [Hubspot](integrations/hubspot.md)
+* [Zapier](integrations/zapier.md)
+* [Webhooks](integrations/webhooks.md)
+
 ## Usage & Analytics
 
 * [Analytics Overview](activity/README.md)
