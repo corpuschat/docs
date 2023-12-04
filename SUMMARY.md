@@ -31,20 +31,21 @@
 ## Chatbot Widget
 
 * [Widget Overview](widget/README.md)
-* [Branding / Appearance](widget/appearance.md)
-* [Home Screen](widget/home-screen.md)
-* [Chat Window](widget/ai-chatbot.md)
-  * [Custom Prompt](widget/custom-prompt.md)
-  * [Generating Leads](widget/lead-generation.md)
-  * [Bot Peronality](widget/bot-peronality.md)
-* [Contact Form](widget/contact-form.md)
-* [Localization](widget/localization.md)
-* [Javascript API](widget/api.md)
+* [Customize Your Widget](widget/README.md)
+ * [Branding / Appearance](widget/appearance.md)
+ * [Home Screen](widget/home-screen.md)
+ * [Chat Window](widget/ai-chatbot.md)
+ * [Custom Prompt](widget/custom-prompt.md)
+ * [Generating Leads](widget/lead-generation.md)
+ * [Bot Peronality](widget/bot-peronality.md)
+ * [Contact Form](widget/contact-form.md)
 * [Add Widget to Your Website](widget/installation.md)
   * [Wordpress Plugin](widget/add-to-wordpress.md)
   * [Shipify App](widget/add-to-shopify.md)
   * [Webflow](widget/add-to-webflow.md)
   * [Wix](widget/add-to-wix.md)
+* [Localization](widget/localization.md)
+* [Javascript API](widget/api.md)
   
 ## Sharing Your Chatbot
 
