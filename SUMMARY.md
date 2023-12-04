@@ -61,6 +61,7 @@
 * [Hubspot](integrations/hubspot.md)
 * [Zapier](integrations/zapier.md)
 * [Webhooks](integrations/webhooks.md)
+* [API](integrations/api.md)
 
 ## Usage & Analytics
 
