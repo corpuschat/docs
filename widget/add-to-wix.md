@@ -25,7 +25,7 @@ Adding the Corpus chatbot widget to your Wix website can significantly enhance u
     - Click 'Apply' to save your changes.
 
 
-[![Wix HTML Settings Window](../media/add-to-wix.webp))](https://support.wix.com/en/article/embedding-custom-code-on-your-site)
+[![Wix HTML Settings Window](../media/add-to-wix.webp)](https://support.wix.com/en/article/embedding-custom-code-on-your-site)
 
 ## Summary
 
