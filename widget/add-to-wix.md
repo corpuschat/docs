@@ -3,7 +3,9 @@
 
 Adding the Corpus chatbot widget to your Wix website can significantly enhance user engagement and provide instant support to your visitors. This guide will walk you through the process of embedding the Corpus widget into your Wix site using a JavaScript snippet, as per Wix's guidelines for embedding custom code.
 
-## 1: Obtain the JavaScript snippet from Corpus
+## Instructions 
+
+### 1: Obtain the JavaScript snippet from Corpus
 
 - **Log Into Corpus:** Access your account on the Corpus platform.
 - **Select Your Chatbot:** Choose the chatbot you wish to embed from your list of available chatbots.
@@ -12,7 +14,7 @@ Adding the Corpus chatbot widget to your Wix website can significantly enhance u
 
 > [Placeholder for Screenshot: Corpus Widget Installation Page]
 
-## 2: Add the snippet to your Wix website
+### 2: Add the snippet to your Wix website
 
 - **Access Your Wix Editor:** Log into your Wix account and open the website editor for the site where you want to embed the chatbot.
 - **Adding Custom Code to Wix:**
