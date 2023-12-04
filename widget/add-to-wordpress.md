@@ -13,7 +13,7 @@ Incorporating the Corpus chatbot widget into your WordPress site is made effortl
     - Choose the downloaded Corpus plugin zip file and click 'Install Now'.
 - **Activate the plugin:** Once the installation is complete, click on 'Activate Plugin' to enable the Corpus chatbot on your WordPress site.
 
-> [Placeholder for Screenshot: Activating Corpus Plugin]
+![Install WordPress Plugin](../media/install-wordpress-plugin.webp)
 
 ## Configure the plugin
 
@@ -26,7 +26,7 @@ Incorporating the Corpus chatbot widget into your WordPress site is made effortl
     - Paste the URL into the "Corpus Chatbot ID" field in the plugin settings.
     - Save your changes to apply the chatbot to your site.
 
-> [Placeholder for Screenshot: Pasting Chatbot ID in WordPress]
+![WordPress Plugin Settings](../media/wordpress-plugin-settings.webp)
 
 ## Summary
 
