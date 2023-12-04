@@ -22,7 +22,7 @@ Embedding the Corpus chatbot widget into your Squarespace website can significan
 
 [![Squarespace Code Injection](../media/add-to-squarespace.webp)](https://support.squarespace.com/hc/en-us/articles/205815908)
 
-### Conclusion
+## Summary
 
 By following these steps, you can successfully integrate the Corpus chatbot widget into your Squarespace website. This integration not only enriches the user experience but also provides a valuable tool for customer interaction and support, all while maintaining the aesthetic integrity and performance of your Squarespace site.
 
