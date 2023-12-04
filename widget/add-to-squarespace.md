@@ -18,7 +18,7 @@ Embedding the Corpus chatbot widget into your Squarespace website can significan
 
 - **Access your Squarespace dashboard:** Log into your Squarespace account and select the site where you want to add the chatbot.
 - **Adding custom code to Squarespace:**
-    - Open the [Code Injection panel](https://account.squarespace.com/project-picker?client_id=helpcenter&redirect_url=%2Fpages%2Fwebsite-tools%2Fcode-injection).
+    - Open the <a href="https://account.squarespace.com/project-picker?client_id=helpcenter&redirect_url=%2Fpages%2Fwebsite-tools%2Fcode-injection" target="squarespace">Code Injection panel</a>
     - Add valid HTML or scripts into either the **header** or **footer** Code Injection fields.
     - Save your changes to apply the widget to your site.
 
