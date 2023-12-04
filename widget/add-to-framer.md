@@ -19,7 +19,8 @@ Integrating the Corpus chatbot widget into your Framer website can significantly
 - **Access your Framer project:** Log into your Framer account and open the project where you want the chatbot to appear.
 - **Inserting custom code:** Scroll down to the 'Custom Code' section and paste the copied JavaScript snippet from Corpus.
 
-[![Framer's Code Component Interface](../media/add-to-framer.webp)](https://www.framer.com/learn/custom-code)
+<a href="[https://support.squarespace.com/hc/en-us/articles/205815908](https://www.framer.com/learn/custom-code)" target="framer">See full instructions on Framer.com ›</a>
+
 
 ## Summary
 
