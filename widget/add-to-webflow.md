@@ -3,7 +3,9 @@
 
 Adding the Corpus chatbot widget to your Webflow website enhances user engagement and provides seamless support. This guide will demonstrate how to embed the Corpus widget into your Webflow site using the 'Custom Code' feature in the 'Site Settings', focusing on adding the code to the 'Head Code' section.
 
-## 1: Acquire the JavaScript snippet from Corpus
+## Instructions 
+
+### 1: Acquire the JavaScript snippet from Corpus
 
 - **Log Into Corpus:** First, sign in to your Corpus account.
 - **Choose Your Chatbot:** Select the chatbot you intend to embed from your available options.
@@ -12,7 +14,7 @@ Adding the Corpus chatbot widget to your Webflow website enhances user engagemen
 
 > [Placeholder for Screenshot: Corpus Widget Installation Page]
 
-## 2: Embedd the snippet in webflow
+### 2: Embedd the snippet in webflow
 
 - **Open Webflow Site Settings:** Log into your Webflow account and select your project. Go to the 'Site Settings'.
 - **Locate Custom Code Section:** In the 'Site Settings', find the 'Custom Code' tab.
