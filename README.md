@@ -6,7 +6,8 @@ hide-nav: true
 # Documentation
 ## Learn everything you need to integrate Corpus into your website and start delivering exceptional experiences to your customers in no time.
 
-![Corpus Chat: Corpus.Chat](./media/docs-hero.png)
+![Corpus Chat: Corpus.Chat](./media/docs-hero-light.webp#gh-light-mode-only)
+![Corpus Chat: Corpus.Chat](./media/docs-hero-dark.webp#gh-dark-mode-only)
 
 ## Getting started
 
