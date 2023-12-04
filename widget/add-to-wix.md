@@ -24,7 +24,8 @@ Adding the Corpus chatbot widget to your Wix website can significantly enhance u
     - Set the code to load either 'Only once' or 'Each time the page loads', depending on your preference.
     - Click 'Apply' to save your changes.
 
-[https://support.wix.com/en/article/embedding-custom-code-on-your-site](![Wix HTML Settings Window](../media/add-to-wix.webp))
+
+[![Wix HTML Settings Window](../media/add-to-wix.webp))](https://support.wix.com/en/article/embedding-custom-code-on-your-site)
 
 ## Summary
 
